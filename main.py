@@ -7,14 +7,18 @@ page = "https://www.transfermarkt.co.uk/transfers/transferrekorde/statistik/top/
 pageTree = requests.get(page, headers=headers)
 pageSoup = bs4.BeautifulSoup(pageTree.content, 'html.parser')
 
+# Write to CSV data
 outfile = open('main.csv','w', encoding="utf-8", newline='')
 writer = csv.writer(outfile, delimiter=" ")
-writer.writerow(["Players", "Values", "Position", "Nationality"])
+writer.writerow(["Players", "Values", "Position", "Nationality", "Age"])
 
+
+# Define Pagination
 paging = pageSoup.find("div",{"class":"pager"}).find("ul",{"class":"yiiPager"}).find_all("a")
 start_page = paging[0].text
 last_page = paging[len(paging)-3].text
 
+#Start to scrape
 
 totalPlayer = 0
 pages = list(range(1,int(last_page)+1))
@@ -29,8 +33,8 @@ for page in pages:
     print("======================================================================================")
 
 
-    product_name_list = soup.findAll("tr", {"class":{"even","odd"}})
-    for element in product_name_list:
+    player_list = soup.findAll("tr", {"class":{"even","odd"}})
+    for element in player_list:
         player = element.find("a",{"class":"spielprofil_tooltip"}).text
         value = element.find("td", {"class": "rechts hauptlink"}).text.replace(u"\u00a3", "").replace("m","").replace(".",",")
         position = element.select("td")[4].text
@@ -38,8 +42,6 @@ for page in pages:
         nationality = []
         nationality1 = element.select("td[class*='zentriert'] img[class*='flaggenrahmen']")[0].attrs["title"]
         nationality.append(nationality1)
-
-
 
         print(player)
         writer.writerow([player, value, position, nationality])
