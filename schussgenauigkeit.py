@@ -10,8 +10,8 @@ pageSoup = bs4.BeautifulSoup(pageTree.content, 'html.parser')
 
 # Write to CSV data
 outfile = open('schussgenauigkeit.csv','w', encoding="utf-8", newline='')
-writer = csv.writer(outfile, delimiter=" ")
-writer.writerow(["Name", "Verein", "Position", "Einsatz", "SpielMinuten", "Shot on Target", "Total Shots"])
+writer = csv.writer(outfile, delimiter=",")
+writer.writerow(["Name", "Verein", "Position", "Einsatz", "SpielMinuten", "ShotOnTarget", "TotalShots"])
 
 
 player_list = pageSoup.findAll("tr")
@@ -23,16 +23,16 @@ for element in player_list:
         position = element.findAll("td", {"class": "text-left"})[2].text
 
         einsatzStr = element.findAll("td", {"class": "text-right"})[0].text
-        einsatz = int(einsatzStr)
+        einsatz = float(einsatzStr)
 
         spielminutenStr = element.findAll("td", {"class":"text-right"})[1].text
-        spielminuten = int(spielminutenStr)
+        spielminuten = float(spielminutenStr)
 
         shotsOnTargetStr = element.findAll("td", {"class": "text-right"})[2].text
-        shotsOnTarget = int(shotsOnTargetStr)
+        shotsOnTarget = float(shotsOnTargetStr)
 
         totalShotsStr = element.findAll("td", {"class": "text-right"})[3].text
-        totalShots = int(totalShotsStr)
+        totalShots = float(totalShotsStr)
 
 
 

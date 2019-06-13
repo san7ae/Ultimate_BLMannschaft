@@ -10,8 +10,8 @@ pageSoup = bs4.BeautifulSoup(pageTree.content, 'html.parser')
 
 # Write to CSV data
 outfile = open('passquote.csv','w', encoding="utf-8", newline='')
-writer = csv.writer(outfile, delimiter=" ")
-writer.writerow(["Name", "Verein", "Position", "Einsatz", "SpielMinuten", "Pass Completed", "Total Pass"])
+writer = csv.writer(outfile, delimiter=",")
+writer.writerow(["Name", "Verein", "Position", "Einsatz", "SpielMinuten", "PassCompleted", "TotalPass"])
 
 
 player_list = pageSoup.findAll("tr")
@@ -23,16 +23,16 @@ for element in player_list:
         position = element.findAll("td", {"class": "text-left"})[2].text
 
         einsatzStr = element.findAll("td", {"class": "text-right"})[0].text
-        einsatz = int(einsatzStr)
+        einsatz = float(einsatzStr)
 
         spielminutenStr = element.findAll("td", {"class":"text-right"})[1].text
-        spielminuten = int(spielminutenStr)
+        spielminuten = float(spielminutenStr)
 
         passCompletedStr = element.findAll("td", {"class": "text-right"})[2].text
-        passCompleted = int(passCompletedStr)
+        passCompleted = float(passCompletedStr)
 
         totalPassStr = element.findAll("td", {"class": "text-right"})[3].text
-        totalPass = int(totalPassStr)
+        totalPass = float(totalPassStr)
 
 
 

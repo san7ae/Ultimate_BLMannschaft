@@ -1,22 +1,22 @@
-Name Verein Position Einsatz SpielMinuten "Clean Sheet"
-"Péter Gulácsi" "RB Leipzig" Torhüter 33 3097 15
-"Yann Sommer" "B. Mönchengladbach" Torhüter 34 3252 13
-"Manuel Neuer" "FC Bayern München" Torhüter 26 2438 10
-"Roman Bürki" "Borussia Dortmund" Torhüter 32 3090 10
-"Lukás Hrádecky" "Bayer 04 Leverkusen" Torhüter 32 3076 9
-"Koen Casteels" "VfL Wolfsburg" Torhüter 26 2462 8
-"Rune Jarstein" "Hertha BSC" Torhüter 31 2924 8
-"Kevin Trapp" "Eintracht Frankfurt" Torhüter 33 3149 8
-"Ron-Robert Zieler" "VfB Stuttgart" Torhüter 34 3240 6
-"Florian Müller" "1. FSV Mainz 05" Torhüter 24 2300 5
-"Michael Rensing" "Fortuna Düsseldorf" Torhüter 32 3068 5
-"Michael Esser" "Hannover 96" Torhüter 32 3084 5
-"Oliver Baumann" "TSG 1899 Hoffenheim" Torhüter 33 3186 5
-"Alexander Schwolow" "SC Freiburg" Torhüter 33 3188 5
-"Jirí Pavlenka" "SV Werder Bremen" Torhüter 34 3188 5
-"Alexander Nübel" "FC Schalke 04" Torhüter 18 1696 4
-"Gregor Kobel" "FC Augsburg" Torhüter 17 1565 3
-"Ralf Fährmann" "FC Schalke 04" Torhüter 17 1596 3
-"Fabian Bredlow" "1. FC Nürnberg" Torhüter 13 1194 2
-"Andreas Luthe" "FC Augsburg" Torhüter 15 1408 2
-"Christian Mathenia" "1. FC Nürnberg" Torhüter 22 2067 2
+Name,Verein,Position,Einsatz,SpielMinuten,CleanSheet
+Péter Gulácsi,RB Leipzig,Torhüter,33.0,3097.0,15.0
+Yann Sommer,B. Mönchengladbach,Torhüter,34.0,3252.0,13.0
+Manuel Neuer,FC Bayern München,Torhüter,26.0,2438.0,10.0
+Roman Bürki,Borussia Dortmund,Torhüter,32.0,3090.0,10.0
+Lukás Hrádecky,Bayer 04 Leverkusen,Torhüter,32.0,3076.0,9.0
+Koen Casteels,VfL Wolfsburg,Torhüter,26.0,2462.0,8.0
+Rune Jarstein,Hertha BSC,Torhüter,31.0,2924.0,8.0
+Kevin Trapp,Eintracht Frankfurt,Torhüter,33.0,3149.0,8.0
+Ron-Robert Zieler,VfB Stuttgart,Torhüter,34.0,3240.0,6.0
+Florian Müller,1. FSV Mainz 05,Torhüter,24.0,2300.0,5.0
+Michael Rensing,Fortuna Düsseldorf,Torhüter,32.0,3068.0,5.0
+Michael Esser,Hannover 96,Torhüter,32.0,3084.0,5.0
+Oliver Baumann,TSG 1899 Hoffenheim,Torhüter,33.0,3186.0,5.0
+Alexander Schwolow,SC Freiburg,Torhüter,33.0,3188.0,5.0
+Jirí Pavlenka,SV Werder Bremen,Torhüter,34.0,3188.0,5.0
+Alexander Nübel,FC Schalke 04,Torhüter,18.0,1696.0,4.0
+Gregor Kobel,FC Augsburg,Torhüter,17.0,1565.0,3.0
+Ralf Fährmann,FC Schalke 04,Torhüter,17.0,1596.0,3.0
+Fabian Bredlow,1. FC Nürnberg,Torhüter,13.0,1194.0,2.0
+Andreas Luthe,FC Augsburg,Torhüter,15.0,1408.0,2.0
+Christian Mathenia,1. FC Nürnberg,Torhüter,22.0,2067.0,2.0

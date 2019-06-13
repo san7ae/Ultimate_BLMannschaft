@@ -1,22 +1,22 @@
-Name Verein Position Einsatz SpielMinuten "Gross Chancen vereitelt" "Gesamte Chancen"
-"Péter Gulácsi" "RB Leipzig" Torhüter 33 3097 23 39
-"Jirí Pavlenka" "SV Werder Bremen" Torhüter 34 3188 28 59
-"Ralf Fährmann" "FC Schalke 04" Torhüter 17 1596 16 34
-"Kevin Trapp" "Eintracht Frankfurt" Torhüter 33 3149 21 48
-"Rune Jarstein" "Hertha BSC" Torhüter 31 2924 20 47
-"Andreas Luthe" "FC Augsburg" Torhüter 15 1408 9 22
-"Gregor Kobel" "FC Augsburg" Torhüter 17 1565 17 42
-"Michael Esser" "Hannover 96" Torhüter 32 3084 25 62
-"Yann Sommer" "B. Mönchengladbach" Torhüter 34 3252 18 45
-"Roman Bürki" "Borussia Dortmund" Torhüter 32 3090 16 41
-"Christian Mathenia" "1. FC Nürnberg" Torhüter 22 2067 12 33
-"Koen Casteels" "VfL Wolfsburg" Torhüter 26 2462 13 37
-"Michael Rensing" "Fortuna Düsseldorf" Torhüter 32 3068 20 57
-"Alexander Schwolow" "SC Freiburg" Torhüter 33 3188 21 61
-"Ron-Robert Zieler" "VfB Stuttgart" Torhüter 34 3240 20 60
-"Oliver Baumann" "TSG 1899 Hoffenheim" Torhüter 33 3186 16 48
-"Florian Müller" "1. FSV Mainz 05" Torhüter 24 2300 14 44
-"Lukás Hrádecky" "Bayer 04 Leverkusen" Torhüter 32 3076 10 34
-"Alexander Nübel" "FC Schalke 04" Torhüter 18 1696 7 28
-"Manuel Neuer" "FC Bayern München" Torhüter 26 2438 4 17
-"Fabian Bredlow" "1. FC Nürnberg" Torhüter 13 1194 2 14
+Name,Verein,Position,Einsatz,SpielMinuten,GrossChancenVereitelt,GesamteChancen
+Péter Gulácsi,RB Leipzig,Torhüter,33.0,3097.0,23.0,39.0
+Jirí Pavlenka,SV Werder Bremen,Torhüter,34.0,3188.0,28.0,59.0
+Ralf Fährmann,FC Schalke 04,Torhüter,17.0,1596.0,16.0,34.0
+Kevin Trapp,Eintracht Frankfurt,Torhüter,33.0,3149.0,21.0,48.0
+Rune Jarstein,Hertha BSC,Torhüter,31.0,2924.0,20.0,47.0
+Andreas Luthe,FC Augsburg,Torhüter,15.0,1408.0,9.0,22.0
+Gregor Kobel,FC Augsburg,Torhüter,17.0,1565.0,17.0,42.0
+Michael Esser,Hannover 96,Torhüter,32.0,3084.0,25.0,62.0
+Yann Sommer,B. Mönchengladbach,Torhüter,34.0,3252.0,18.0,45.0
+Roman Bürki,Borussia Dortmund,Torhüter,32.0,3090.0,16.0,41.0
+Christian Mathenia,1. FC Nürnberg,Torhüter,22.0,2067.0,12.0,33.0
+Koen Casteels,VfL Wolfsburg,Torhüter,26.0,2462.0,13.0,37.0
+Michael Rensing,Fortuna Düsseldorf,Torhüter,32.0,3068.0,20.0,57.0
+Alexander Schwolow,SC Freiburg,Torhüter,33.0,3188.0,21.0,61.0
+Ron-Robert Zieler,VfB Stuttgart,Torhüter,34.0,3240.0,20.0,60.0
+Oliver Baumann,TSG 1899 Hoffenheim,Torhüter,33.0,3186.0,16.0,48.0
+Florian Müller,1. FSV Mainz 05,Torhüter,24.0,2300.0,14.0,44.0
+Lukás Hrádecky,Bayer 04 Leverkusen,Torhüter,32.0,3076.0,10.0,34.0
+Alexander Nübel,FC Schalke 04,Torhüter,18.0,1696.0,7.0,28.0
+Manuel Neuer,FC Bayern München,Torhüter,26.0,2438.0,4.0,17.0
+Fabian Bredlow,1. FC Nürnberg,Torhüter,13.0,1194.0,2.0,14.0

@@ -9,8 +9,8 @@ pageSoup = bs4.BeautifulSoup(pageTree.content, 'html.parser')
 
 # Write to CSV data
 outfile = open('main.csv','w', encoding="utf-8", newline='')
-writer = csv.writer(outfile, delimiter=" ")
-writer.writerow(["Players", "Position", "Alter", "Verein", "Einsatz", "Vorlagen", "Elfmeter", "Spiel Minuten", "Minuten Pro Tor", "Tore pro Spiel"])
+writer = csv.writer(outfile, delimiter=",")
+writer.writerow(["Name", "Verein", "Position", "Einsatz", "Alter", "Vorlagen", "Elfmetertor", "Tore"])
 
 
 # Define Pagination
@@ -36,23 +36,30 @@ for page in pages:
     player_list = soup.findAll("tr", {"class":{"even","odd"}})
     for element in player_list:
         try:
-            player = element.find("a",{"class":"spielprofil_tooltip"}).text
+            name = element.find("a",{"class":"spielprofil_tooltip"}).text
             position = element.find("table").findAll("td")[2].text
-            alter = element.findAll("td")[6].text
+            alterStr = element.findAll("td")[6].text[:2]
+            alter = int(alterStr)
 
-            verein = element.findAll("td")[7].find("img").attrs["alt"]
+            try:
+                verein = element.findAll("td")[7].find("img").attrs["alt"]
+            except:
+                verein = 'Spiel für mehrere Vereine'
 
-            einsatz = element.findAll("td")[8].text
-            einsatz = int(einsatz)
+            einsatzStr = element.findAll("td")[8].text
+            einsatz = float(einsatzStr)
 
             vorlage = element.findAll("td")[9].text
 
-            elfmeter = element.findAll("td")[10].text
-            elfmeter = int(elfmeter)
+            elfmeterStr = element.findAll("td")[10].text
+            elfmeter = float(elfmeterStr)
 
-            spielminuten = element.findAll("td")[11].text
-            minutenProTor = element.findAll("td")[12].text
-            toreProSpiel = element.findAll("td")[13].text
+            # spielminuten = element.findAll("td")[11].text
+
+            toreStr = element.findAll("td")[14].text
+            tore = float(toreStr)
+            # minutenProTor = element.findAll("td")[12].text
+            # toreProSpiel = element.findAll("td")[13].text
 
             #value = element.find("td", {"class": "rechts hauptlink"}).text.replace(u"\u00a3", "").replace("m","").replace(".",",")
 
@@ -60,8 +67,8 @@ for page in pages:
             #nationality1 = element.select("td[class*='zentriert'] img[class*='flaggenrahmen']")[0].attrs["title"]
             #nationality.append(nationality1)
 
-            print(player)
-            writer.writerow([player, position, alter, verein, einsatz, vorlage, elfmeter, spielminuten, minutenProTor, toreProSpiel])
+            print(name)
+            writer.writerow([name, verein, position, einsatz, alter, vorlage, elfmeter, tore])
             totalPlayer+=1
 
         except:

@@ -1,28 +1,28 @@
-Name Verein Position Einsatz SpielMinuten "Abgewehrte Elfmeter" "Gesamte Elfmeter"
-"Ramazan Özcan" "Bayer 04 Leverkusen" Torhüter 2 193 1 2
-"Fabian Bredlow" "1. FC Nürnberg" Torhüter 13 1194 1 2
-"Gregor Kobel" "FC Augsburg" Torhüter 17 1565 1 3
-"Alexander Nübel" "FC Schalke 04" Torhüter 18 1696 1 4
-"Rune Jarstein" "Hertha BSC" Torhüter 31 2924 1 4
-"Lukás Hrádecky" "Bayer 04 Leverkusen" Torhüter 32 3076 1 4
-"Koen Casteels" "VfL Wolfsburg" Torhüter 26 2462 1 5
-"Michael Esser" "Hannover 96" Torhüter 32 3084 1 6
-"Luca Plogmann" "SV Werder Bremen" Torhüter 1 47 0 1
-"Yvon Mvogo" "RB Leipzig" Torhüter 2 148 0 1
-"Marwin Hitz" "Borussia Dortmund" Torhüter 2 200 0 1
-"Pavao Pervan" "VfL Wolfsburg" Torhüter 9 811 0 1
-"Kevin Trapp" "Eintracht Frankfurt" Torhüter 33 3149 0 1
-"Thomas Kraft" "Hertha BSC" Torhüter 4 339 0 2
-"Ralf Fährmann" "FC Schalke 04" Torhüter 17 1596 0 2
-"Christian Mathenia" "1. FC Nürnberg" Torhüter 22 2067 0 2
-"Sven Ulreich" "FC Bayern München" Torhüter 9 809 0 3
-"Manuel Neuer" "FC Bayern München" Torhüter 26 2438 0 3
-"Ron-Robert Zieler" "VfB Stuttgart" Torhüter 34 3240 0 3
-"Yann Sommer" "B. Mönchengladbach" Torhüter 34 3252 0 3
-"Florian Müller" "1. FSV Mainz 05" Torhüter 24 2300 0 4
-"Roman Bürki" "Borussia Dortmund" Torhüter 32 3090 0 4
-"Jirí Pavlenka" "SV Werder Bremen" Torhüter 34 3188 0 4
-"Péter Gulácsi" "RB Leipzig" Torhüter 33 3097 0 5
-"Oliver Baumann" "TSG 1899 Hoffenheim" Torhüter 33 3186 0 6
-"Michael Rensing" "Fortuna Düsseldorf" Torhüter 32 3068 0 7
-"Alexander Schwolow" "SC Freiburg" Torhüter 33 3188 0 7
+Name,Verein,Position,Einsatz,SpielMinuten,AbgewehrteElfmeter,GesamteElfmeter
+Ramazan Özcan,Bayer 04 Leverkusen,Torhüter,2.0,193.0,1.0,2.0
+Fabian Bredlow,1. FC Nürnberg,Torhüter,13.0,1194.0,1.0,2.0
+Gregor Kobel,FC Augsburg,Torhüter,17.0,1565.0,1.0,3.0
+Alexander Nübel,FC Schalke 04,Torhüter,18.0,1696.0,1.0,4.0
+Rune Jarstein,Hertha BSC,Torhüter,31.0,2924.0,1.0,4.0
+Lukás Hrádecky,Bayer 04 Leverkusen,Torhüter,32.0,3076.0,1.0,4.0
+Koen Casteels,VfL Wolfsburg,Torhüter,26.0,2462.0,1.0,5.0
+Michael Esser,Hannover 96,Torhüter,32.0,3084.0,1.0,6.0
+Luca Plogmann,SV Werder Bremen,Torhüter,1.0,47.0,0.0,1.0
+Yvon Mvogo,RB Leipzig,Torhüter,2.0,148.0,0.0,1.0
+Marwin Hitz,Borussia Dortmund,Torhüter,2.0,200.0,0.0,1.0
+Pavao Pervan,VfL Wolfsburg,Torhüter,9.0,811.0,0.0,1.0
+Kevin Trapp,Eintracht Frankfurt,Torhüter,33.0,3149.0,0.0,1.0
+Thomas Kraft,Hertha BSC,Torhüter,4.0,339.0,0.0,2.0
+Ralf Fährmann,FC Schalke 04,Torhüter,17.0,1596.0,0.0,2.0
+Christian Mathenia,1. FC Nürnberg,Torhüter,22.0,2067.0,0.0,2.0
+Sven Ulreich,FC Bayern München,Torhüter,9.0,809.0,0.0,3.0
+Manuel Neuer,FC Bayern München,Torhüter,26.0,2438.0,0.0,3.0
+Ron-Robert Zieler,VfB Stuttgart,Torhüter,34.0,3240.0,0.0,3.0
+Yann Sommer,B. Mönchengladbach,Torhüter,34.0,3252.0,0.0,3.0
+Florian Müller,1. FSV Mainz 05,Torhüter,24.0,2300.0,0.0,4.0
+Roman Bürki,Borussia Dortmund,Torhüter,32.0,3090.0,0.0,4.0
+Jirí Pavlenka,SV Werder Bremen,Torhüter,34.0,3188.0,0.0,4.0
+Péter Gulácsi,RB Leipzig,Torhüter,33.0,3097.0,0.0,5.0
+Oliver Baumann,TSG 1899 Hoffenheim,Torhüter,33.0,3186.0,0.0,6.0
+Michael Rensing,Fortuna Düsseldorf,Torhüter,32.0,3068.0,0.0,7.0
+Alexander Schwolow,SC Freiburg,Torhüter,33.0,3188.0,0.0,7.0

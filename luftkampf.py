@@ -10,8 +10,8 @@ pageSoup = bs4.BeautifulSoup(pageTree.content, 'html.parser')
 
 # Write to CSV data
 outfile = open('luftkampf.csv','w', encoding="utf-8", newline='')
-writer = csv.writer(outfile, delimiter=" ")
-writer.writerow(["Name", "Verein", "Position", "Einsatz", "SpielMinuten", "Gewonnene Luftkämpfe", "Gesamte Luftkämpfe"])
+writer = csv.writer(outfile, delimiter=",")
+writer.writerow(["Name", "Verein", "Position", "Einsatz", "SpielMinuten", "GewonneneLuftkaempfe", "GesamteLuftkaempfe"])
 
 
 player_list = pageSoup.findAll("tr")
@@ -23,16 +23,16 @@ for element in player_list:
         position = element.findAll("td", {"class": "text-left"})[2].text
 
         einsatzStr = element.findAll("td", {"class": "text-right"})[0].text
-        einsatz = int(einsatzStr)
+        einsatz = float(einsatzStr)
 
         spielminutenStr = element.findAll("td", {"class":"text-right"})[1].text
-        spielminuten = int(spielminutenStr)
+        spielminuten = float(spielminutenStr)
 
         gewonneneLuftkaempfeStr = element.findAll("td", {"class": "text-right"})[2].text
-        gewonneneLuftkaempfe = int(gewonneneLuftkaempfeStr)
+        gewonneneLuftkaempfe = float(gewonneneLuftkaempfeStr)
 
         gesamteLuftkaempfeStr = element.findAll("td", {"class": "text-right"})[3].text
-        gesamteLuftkaempfe = int(gesamteLuftkaempfeStr)
+        gesamteLuftkaempfe = float(gesamteLuftkaempfeStr)
 
 
 

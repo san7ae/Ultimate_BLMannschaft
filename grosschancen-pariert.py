@@ -10,8 +10,8 @@ pageSoup = bs4.BeautifulSoup(pageTree.content, 'html.parser')
 
 # Write to CSV data
 outfile = open('grosschancen-pariert.csv','w', encoding="utf-8", newline='')
-writer = csv.writer(outfile, delimiter=" ")
-writer.writerow(["Name", "Verein", "Position", "Einsatz", "SpielMinuten", "Gross Chancen vereitelt", "Gesamte Chancen"])
+writer = csv.writer(outfile, delimiter=",")
+writer.writerow(["Name", "Verein", "Position", "Einsatz", "SpielMinuten", "GrossChancenVereitelt", "GesamteChancen"])
 
 
 player_list = pageSoup.findAll("tr")
@@ -23,16 +23,16 @@ for element in player_list:
         position = element.findAll("td", {"class": "text-left"})[2].text
 
         einsatzStr = element.findAll("td", {"class": "text-right"})[0].text
-        einsatz = int(einsatzStr)
+        einsatz = float(einsatzStr)
 
         spielminutenStr = element.findAll("td", {"class":"text-right"})[1].text
-        spielminuten = int(spielminutenStr)
+        spielminuten = float(spielminutenStr)
 
         grossChancenVereiteltStr = element.findAll("td", {"class": "text-right"})[2].text
-        grossChancenVereitelt = int(grossChancenVereiteltStr)
+        grossChancenVereitelt = float(grossChancenVereiteltStr)
 
         gesamtChancenStr = element.findAll("td", {"class": "text-right"})[3].text
-        gesamtChancen = int(gesamtChancenStr)
+        gesamtChancen = float(gesamtChancenStr)
 
 
 
