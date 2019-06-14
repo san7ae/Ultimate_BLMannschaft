@@ -1,0 +1,139 @@
+#!/Users/ikhsanhabibi/Github/DataScience/venv/bin/python
+#
+
+"""Brewery tool
+
+    For more information run: brewery --help
+    
+    Author: Stefan Urbanek <stefan.urbanek@gmail.com>
+    Date: 2010-12
+"""
+
+import argparse
+import json
+import sys
+import ConfigParser
+import os.path
+import urlparse
+import argparse
+import urllib2
+
+import brewery.streams
+
+class ToolError(Exception):
+    """Just exception"""
+    pass
+
+CONFIG_PATHS = ['/etc/brewery.conf', \
+				'~/.brewery.conf', \
+				'./brewery.conf']
+
+def load_config(args):
+    paths = CONFIG_PATHS + (args.config if args.config else [])
+    config = ConfigParser.SafeConfigParser()
+
+    for path in paths:
+        if os.path.exists(path):
+            config.read(path)
+            
+    if config.has_section("extensions"):
+        extensions = config.options("extensions")
+        for extension in extensions:
+            mod_name = config.get("extensions", extension)
+            import_extension(extension, mod_name)
+                
+def import_extension(extension_name, module_name = None):
+    """Imports a brewery tool extension from module `module_name`.
+    
+    Note: extension name is not used yet module_name is specified. Might be used in the future to allow
+    different modules replace extensions with same name.
+    """
+    
+    module = __import__(module_name or extension_name)
+
+def run_stream(args):
+    stream = load_stream(args.stream)
+
+    # FIXME: add configuration here
+    
+    try:
+        stream.run()
+    except brewery.streams.StreamRuntimeError as e:
+        e.print_exception()
+
+    # FIXME: add exit(1)
+
+def load_stream(resource):
+    desc = load_json(args.stream)
+    
+    stream = brewery.streams.Stream()
+    stream.update(nodes = desc.get("nodes"), connections = desc.get("connections"))
+
+    return stream
+    
+def load_json(resource):
+    """Load json from an URL or local file."""
+
+    parts = urlparse.urlparse(resource)
+    should_close = True
+    handle = open(resource) if parts.scheme in ('', 'file') \
+                                 else urllib2.urlopen(resource)
+
+    try:
+        desc = json.load(handle)
+    except Exception as e:
+        raise Exception("Unable to load JSON from '%s'. Reason: %s" % (resource, str(e)))
+    finally:
+        handle.close()
+
+    return desc
+
+def create_graph(args):
+    stream = load_stream(args)
+    
+    graph = "digraph {\n"
+    for connection in stream.connections:
+        src = connection[0]
+        target = connection[1]
+        format = {}
+        
+        format_str = ",".join([ "%s=%s" % (k, v) for k, v in format.items()])
+        
+        graph += "%s -> %s;\n" % (type(src).identifier(), 
+                                   type(target).identifier())
+
+    graph += "}\n"
+    
+    print graph
+
+################################################################################
+# Main code
+
+parser = argparse.ArgumentParser(description='Brewery runner')
+# parser.add_argument('command')
+# parser.add_argument('command_args', nargs = '*', default = [])
+parser.add_argument('--config', action='append', help='brewery configuration file')
+subparsers = parser.add_subparsers(title='commands', help='additional help')
+
+################################################################################
+# Command: valdate_model
+
+subparser = subparsers.add_parser('run', help = "run a stream")
+subparser.add_argument('stream', help='path to the stream JSON file')
+subparser.set_defaults(func=run_stream)
+
+################################################################################
+# Command: graph
+
+subparser = subparsers.add_parser('graph', help = "generate a graphviz representation of the stream")
+subparser.add_argument('stream', help='path to the stream JSON file')
+subparser.set_defaults(func=create_graph)
+
+args = parser.parse_args(sys.argv[1:])
+
+load_config(args)
+try:
+    args.func(args)
+except ToolError as e:
+    print "Error: %s" % str(e)
+    exit(1)
