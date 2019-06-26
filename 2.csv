@@ -1,0 +1,374 @@
+Name,Verein,Position,Einsatz,Alter,Vorlagen,Elfmetertor,Tore,Nationalitaet,SpielMinuten,ShotOnTarget,AbgefangeneBaelle,AbgewehrteElfmeter,GesamteElfmeter,AbgewehrteBaelle,Balleroberungen,BallVerluste,Fouls,CleanSheet,SuccessfulDribblings,TotalDribblings,ErrorGegentor,FlankenGeblockt,GesamteFlanken,GeklaerteBaelle,GrosschancenKreiert,GrossChancenVereitelt,GesamteChancen,GewonneneLuftkaempfe,GesamteLuftkaempfe,Paraden,PassCompleted,TotalPass,TotalShots,SuccessfulTackles,TotalTackles,TorschussVorlagen,GewonneneZweikaempfe,GesamteZweikaempfe,Value
+Robert Lewandowski,FC Bayern München,Mittelstürmer,33.0,30.0,10.0,3.0,22.0,Polen,3129.0,51.0,,,,,9.0,84.0,25.0,,51.0,83.0,,,,14.0,14.0,,,54.0,130.0,,570.0,737.0,144.0,9.0,21.0,38.0,165.0,356.0,65.0
+Paco Alcácer,Borussia Dortmund,Mittelstürmer,26.0,25.0,0.0,1.0,18.0,Spanien,1338.0,28.0,,,,,,17.0,,,6.0,10.0,,,,,2.0,,,12.0,45.0,,213.0,288.0,52.0,,,15.0,28.0,88.0,37.0
+Marco Reus,Borussia Dortmund,Offensives Mittelfeld,27.0,29.0,11.0,3.0,17.0,Deutschland,2463.0,34.0,8.0,,,,24.0,76.0,34.0,,25.0,63.0,,,,31.0,11.0,,,19.0,45.0,,847.0,1057.0,70.0,24.0,56.0,37.0,108.0,264.0,50.0
+Wout Weghorst,VfL Wolfsburg,Mittelstürmer,34.0,26.0,7.0,4.0,17.0,Niederlande,3098.0,35.0,8.0,,,,22.0,60.0,37.0,,14.0,27.0,,,,32.0,7.0,,,114.0,211.0,,569.0,819.0,73.0,22.0,57.0,32.0,195.0,415.0,20.0
+Luka Jovic,Eintracht Frankfurt,Mittelstürmer,32.0,21.0,6.0,1.0,17.0,Serbien,2382.0,43.0,,,,,,75.0,29.0,,26.0,56.0,,,,30.0,6.0,,,62.0,143.0,,426.0,616.0,97.0,5.0,21.0,25.0,141.0,332.0,60.0
+Kai Havertz,Bayer 04 Leverkusen,Offensives Mittelfeld,34.0,19.0,4.0,3.0,17.0,Deutschland,3075.0,42.0,16.0,,,,17.0,114.0,24.0,,44.0,88.0,,,,26.0,4.0,,,55.0,117.0,,1571.0,1821.0,87.0,17.0,50.0,34.0,179.0,396.0,90.0
+Andrej Kramaric,TSG 1899 Hoffenheim,Mittelstürmer,30.0,27.0,4.0,5.0,17.0,Kroatien,2548.0,44.0,9.0,,,,,74.0,7.0,,28.0,53.0,,,,12.0,7.0,,,9.0,29.0,,814.0,1067.0,110.0,4.0,33.0,45.0,65.0,188.0,38.0
+Timo Werner,RasenBallsport Leipzig,Mittelstürmer,30.0,23.0,9.0,0.0,16.0,Deutschland,2605.0,40.0,,,,,12.0,100.0,24.0,,29.0,92.0,,,,,6.0,,,8.0,41.0,,610.0,851.0,107.0,12.0,30.0,33.0,91.0,259.0,65.0
+Ishak Belfodil,TSG 1899 Hoffenheim,Mittelstürmer,28.0,27.0,5.0,0.0,16.0,Algerien & Frankreich,1982.0,36.0,,,,,10.0,51.0,25.0,,37.0,56.0,,,,13.0,5.0,,,48.0,100.0,,323.0,459.0,88.0,10.0,25.0,25.0,113.0,253.0,15.0
+Sébastien Haller,Eintracht Frankfurt,Mittelstürmer,29.0,24.0,9.0,3.0,15.0,Frankreich & Elfenbeinküste,2353.0,26.0,12.0,,,,11.0,71.0,42.0,,24.0,48.0,,,,23.0,9.0,,,195.0,332.0,,501.0,793.0,54.0,11.0,36.0,32.0,285.0,546.0,40.0
+Yussuf Poulsen,RasenBallsport Leipzig,Mittelstürmer,31.0,24.0,4.0,0.0,15.0,Dänemark & Tansania,2595.0,27.0,7.0,,,,10.0,110.0,56.0,,24.0,69.0,,,,27.0,6.0,,,143.0,285.0,,477.0,790.0,65.0,10.0,42.0,31.0,236.0,560.0,35.0
+Kevin Volland,Bayer 04 Leverkusen,Mittelstürmer,34.0,26.0,12.0,0.0,14.0,Deutschland,2983.0,45.0,7.0,,,,19.0,89.0,40.0,,30.0,62.0,,,,31.0,10.0,,,33.0,89.0,,672.0,920.0,87.0,19.0,46.0,38.0,146.0,344.0,30.0
+Jean-Philippe Mateta,1.FSV Mainz 05,Mittelstürmer,34.0,21.0,3.0,0.0,14.0,Frankreich & DR Kongo,2617.0,34.0,,,,,9.0,102.0,32.0,,35.0,74.0,,,,22.0,4.0,,,107.0,204.0,,322.0,476.0,97.0,9.0,22.0,25.0,185.0,422.0,22.0
+Jadon Sancho,Borussia Dortmund,Rechtsaußen,34.0,19.0,17.0,0.0,12.0,England,2644.0,22.0,15.0,,,,11.0,140.0,,,111.0,192.0,,,,,11.0,,,1.0,19.0,,1148.0,1433.0,40.0,11.0,40.0,61.0,169.0,352.0,100.0
+Alassane Plea,Borussia Mönchengladbach,Mittelstürmer,34.0,26.0,4.0,0.0,12.0,Frankreich & Mali,2640.0,41.0,,,,,10.0,69.0,34.0,,23.0,48.0,2.0,,,15.0,3.0,,,37.0,121.0,,448.0,632.0,83.0,10.0,31.0,31.0,107.0,303.0,30.0
+Max Kruse,SV Werder Bremen,Mittelstürmer,32.0,31.0,10.0,3.0,11.0,Deutschland,3018.0,41.0,8.0,,,,,66.0,23.0,,38.0,58.0,2.0,,,,8.0,,,23.0,60.0,,1330.0,1786.0,91.0,5.0,46.0,73.0,109.0,265.0,12.0
+Ondrej Duda,Hertha BSC,Offensives Mittelfeld,32.0,24.0,6.0,0.0,11.0,Slowakei,2687.0,20.0,15.0,,,,33.0,64.0,77.0,,37.0,62.0,,,,13.0,8.0,,,31.0,83.0,,951.0,1267.0,54.0,33.0,93.0,39.0,167.0,391.0,17.0
+Thorgan Hazard,Borussia Mönchengladbach,Linksaußen,33.0,26.0,11.0,3.0,10.0,Belgien,3035.0,26.0,27.0,,,,32.0,115.0,26.0,,70.0,133.0,,,,,13.0,,,21.0,93.0,,973.0,1383.0,77.0,32.0,81.0,71.0,204.0,445.0,38.0
+Serge Gnabry,FC Bayern München,Rechtsaußen,30.0,23.0,7.0,0.0,10.0,Deutschland & Elfenbeinküste,1887.0,32.0,11.0,,,,19.0,104.0,25.0,,51.0,124.0,,,,,12.0,,,7.0,24.0,,689.0,846.0,65.0,19.0,59.0,26.0,109.0,276.0,60.0
+Dodi Lukebakio,Fortuna Düsseldorf,Rechtsaußen,31.0,21.0,4.0,4.0,10.0,Belgien & DR Kongo,2077.0,31.0,8.0,,,,16.0,97.0,28.0,,49.0,99.0,,,,17.0,4.0,,,22.0,47.0,,425.0,585.0,56.0,16.0,30.0,19.0,144.0,301.0,18.0
+Benito Raman,Fortuna Düsseldorf,Linksaußen,30.0,24.0,4.0,0.0,10.0,Belgien,1792.0,26.0,15.0,,,,20.0,83.0,26.0,,37.0,94.0,,,,,4.0,,,5.0,20.0,,307.0,459.0,55.0,20.0,78.0,21.0,94.0,262.0,12.0
+Vedad Ibisevic,Hertha BSC,Mittelstürmer,28.0,34.0,3.0,1.0,10.0,Bosnien-Herzegowina & Vereinigte Staaten,1878.0,21.0,,,,,7.0,36.0,38.0,,13.0,23.0,,,,20.0,,,,71.0,148.0,,308.0,435.0,54.0,7.0,21.0,15.0,109.0,267.0,
+Nils Petersen,SC Freiburg,Mittelstürmer,24.0,30.0,3.0,1.0,10.0,Deutschland,2087.0,23.0,14.0,,,,21.0,43.0,23.0,,7.0,21.0,,,,32.0,,,,88.0,255.0,,345.0,514.0,50.0,21.0,48.0,19.0,143.0,392.0,8.0
+Alfred Finnbogason,FC Augsburg,Mittelstürmer,18.0,30.0,2.0,4.0,10.0,Island,1375.0,18.0,,,,,,37.0,34.0,,12.0,26.0,,,,,3.0,,,23.0,55.0,,222.0,326.0,40.0,3.0,16.0,20.0,52.0,163.0,15.0
+Milot Rashica,SV Werder Bremen,Linksaußen,26.0,22.0,5.0,1.0,9.0,Kosovo & Albanien,1631.0,25.0,,,,,16.0,89.0,33.0,,33.0,87.0,1.0,,,,7.0,,,8.0,37.0,,301.0,509.0,59.0,16.0,39.0,29.0,98.0,263.0,20.0
+Ante Rebic,Eintracht Frankfurt,Hängende Spitze,28.0,25.0,4.0,0.0,9.0,Kroatien,2098.0,28.0,9.0,,,,7.0,136.0,47.0,,45.0,106.0,,,,,8.0,,,37.0,91.0,,293.0,543.0,61.0,7.0,27.0,34.0,123.0,366.0,40.0
+Luca Waldschmidt,SC Freiburg,Mittelstürmer,30.0,22.0,3.0,3.0,9.0,Deutschland,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12.0
+Lucas Alario,Bayer 04 Leverkusen,Mittelstürmer,27.0,26.0,3.0,0.0,9.0,Argentinien & Italien,1375.0,16.0,,,,,8.0,34.0,23.0,,5.0,16.0,,,,12.0,,,,38.0,110.0,,307.0,412.0,42.0,8.0,24.0,15.0,82.0,218.0,17.0
+Leon Goretzka,FC Bayern München,Zentrales Mittelfeld,30.0,24.0,5.0,0.0,8.0,Deutschland,2158.0,22.0,26.0,,,,22.0,25.0,28.0,,14.0,23.0,1.0,,,14.0,2.0,,,37.0,87.0,,1023.0,1175.0,56.0,22.0,64.0,16.0,111.0,235.0,50.0
+Salomon Kalou,Hertha BSC,Linksaußen,30.0,33.0,3.0,3.0,8.0,Elfenbeinküste,2429.0,17.0,,,,,11.0,89.0,29.0,,54.0,83.0,,,,22.0,9.0,,,38.0,112.0,,508.0,708.0,47.0,11.0,35.0,28.0,132.0,338.0,
+Julian Brandt,Bayer 04 Leverkusen,Linksaußen,33.0,23.0,14.0,0.0,7.0,Deutschland,2823.0,25.0,16.0,,,,17.0,101.0,13.0,,55.0,107.0,1.0,,,,13.0,,,27.0,63.0,,1437.0,1868.0,65.0,17.0,61.0,85.0,131.0,313.0,50.0
+Joelinton,TSG 1899 Hoffenheim,Mittelstürmer,28.0,22.0,7.0,0.0,7.0,Brasilien,2268.0,24.0,14.0,,,,24.0,110.0,56.0,,41.0,90.0,,,,,9.0,,,61.0,153.0,,560.0,707.0,56.0,24.0,57.0,37.0,166.0,439.0,35.0
+Mario Götze,Borussia Dortmund,Offensives Mittelfeld,26.0,26.0,7.0,0.0,7.0,Deutschland,1781.0,16.0,8.0,,,,19.0,74.0,20.0,,27.0,60.0,1.0,,,,11.0,,,8.0,39.0,,720.0,900.0,28.0,19.0,47.0,39.0,88.0,233.0,25.0
+Vincenzo Grifo,Spiel für mehrere Vereine,Linksaußen,23.0,26.0,6.0,2.0,7.0,Italien & Deutschland,1868.0,17.0,,,,,17.0,50.0,13.0,,34.0,56.0,,,,15.0,2.0,,,,,,700.0,951.0,57.0,17.0,50.0,45.0,90.0,180.0,9.0
+Daniel Caligiuri,FC Schalke 04,Rechtes Mittelfeld,31.0,31.0,5.0,4.0,7.0,Italien & Deutschland,2948.0,14.0,48.0,,,,55.0,88.0,30.0,,61.0,106.0,1.0,,,64.0,6.0,,,39.0,77.0,,1098.0,1638.0,50.0,55.0,154.0,59.0,231.0,445.0,6.5
+Rouwen Hennings,Fortuna Düsseldorf,Mittelstürmer,29.0,31.0,5.0,1.0,7.0,Deutschland,1956.0,22.0,,,,,11.0,23.0,23.0,,4.0,14.0,,,,19.0,5.0,,,52.0,129.0,,294.0,450.0,59.0,11.0,25.0,27.0,92.0,225.0,
+James Rodríguez,FC Bayern München,Offensives Mittelfeld,20.0,27.0,4.0,0.0,7.0,Kolumbien & Spanien,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,50.0
+Robin Quaison,1.FSV Mainz 05,Hängende Spitze,28.0,25.0,3.0,0.0,7.0,Schweden & Ghana,2323.0,17.0,7.0,,,,12.0,88.0,31.0,,22.0,52.0,,,,,,,,23.0,94.0,,326.0,452.0,50.0,12.0,27.0,18.0,86.0,278.0,8.0
+Karim Onisiwo,1.FSV Mainz 05,Linksaußen,26.0,27.0,3.0,0.0,7.0,Österreich,1236.0,17.0,8.0,,,,17.0,46.0,22.0,,15.0,41.0,,,,,6.0,,,42.0,80.0,,151.0,252.0,39.0,17.0,29.0,19.0,113.0,224.0,
+Mario Gómez,VfB Stuttgart,Mittelstürmer,31.0,33.0,2.0,0.0,7.0,Deutschland & Spanien,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Reiss Nelson,TSG 1899 Hoffenheim,Rechtsaußen,23.0,19.0,1.0,0.0,7.0,England & Simbabwe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17.0
+Thomas Müller,FC Bayern München,Hängende Spitze,32.0,29.0,12.0,0.0,6.0,Deutschland,2483.0,27.0,10.0,,,,23.0,30.0,23.0,,22.0,35.0,,,,13.0,13.0,,,48.0,108.0,,925.0,1271.0,63.0,23.0,70.0,55.0,136.0,273.0,35.0
+Filip Kostic,Eintracht Frankfurt,Linkes Mittelfeld,34.0,26.0,11.0,0.0,6.0,Serbien,3158.0,18.0,23.0,,,,42.0,83.0,26.0,,56.0,94.0,,,,36.0,15.0,,,43.0,86.0,,943.0,1581.0,62.0,42.0,103.0,45.0,201.0,389.0,22.0
+Admir Mehmedi,VfL Wolfsburg,Hängende Spitze,26.0,28.0,7.0,0.0,6.0,Schweiz & Nordmazedonien,1786.0,13.0,14.0,,,,30.0,49.0,28.0,,13.0,34.0,,,,,6.0,,,24.0,64.0,,563.0,783.0,36.0,30.0,73.0,37.0,121.0,264.0,10.0
+Ádám Szalai,TSG 1899 Hoffenheim,Mittelstürmer,30.0,31.0,5.0,0.0,6.0,Ungarn,1787.0,20.0,,,,,13.0,39.0,33.0,,10.0,26.0,,,,,,,,44.0,93.0,,302.0,420.0,65.0,13.0,26.0,24.0,97.0,223.0,
+Kingsley Coman,FC Bayern München,Linksaußen,21.0,22.0,5.0,0.0,6.0,Frankreich & Guadeloupe,1441.0,19.0,,,,,6.0,75.0,17.0,,58.0,97.0,,,,,7.0,,,12.0,26.0,,539.0,678.0,31.0,6.0,24.0,28.0,122.0,240.0,50.0
+Franck Ribéry,FC Bayern München,Linksaußen,25.0,36.0,4.0,0.0,6.0,Frankreich,1308.0,11.0,8.0,,,,8.0,98.0,17.0,,37.0,89.0,,,,,3.0,,,,,,602.0,742.0,26.0,8.0,20.0,21.0,71.0,198.0,4.0
+Daniel Ginczek,VfL Wolfsburg,Mittelstürmer,24.0,28.0,4.0,0.0,6.0,Deutschland,1373.0,14.0,,,,,7.0,38.0,14.0,,13.0,26.0,1.0,,,19.0,3.0,,,26.0,63.0,,203.0,349.0,36.0,7.0,23.0,12.0,62.0,164.0,12.0
+Michael Gregoritsch,FC Augsburg,Hängende Spitze,32.0,25.0,2.0,1.0,6.0,Österreich,2633.0,25.0,16.0,,,,12.0,50.0,27.0,,13.0,35.0,,,,58.0,2.0,,,89.0,178.0,,655.0,924.0,85.0,12.0,42.0,25.0,150.0,335.0,12.0
+Hendrik Weydandt,Hannover 96,Mittelstürmer,28.0,23.0,2.0,0.0,6.0,Deutschland,1847.0,20.0,,,,,12.0,68.0,34.0,,11.0,42.0,,,,43.0,6.0,,,125.0,244.0,,251.0,443.0,61.0,12.0,38.0,22.0,181.0,420.0,
+Maximilian Eggestein,SV Werder Bremen,Zentrales Mittelfeld,34.0,22.0,5.0,0.0,5.0,Deutschland,3267.0,14.0,32.0,,,,44.0,57.0,37.0,,16.0,40.0,,,,63.0,6.0,,,40.0,91.0,,1273.0,1603.0,45.0,44.0,96.0,43.0,162.0,331.0,30.0
+Davy Klaassen,SV Werder Bremen,Offensives Mittelfeld,33.0,26.0,5.0,0.0,5.0,Niederlande,2985.0,10.0,48.0,,,,46.0,35.0,48.0,,15.0,29.0,,,,41.0,6.0,,,33.0,97.0,,913.0,1244.0,32.0,46.0,98.0,36.0,135.0,312.0,22.0
+Jonas Hofmann,Borussia Mönchengladbach,Zentrales Mittelfeld,27.0,26.0,5.0,1.0,5.0,Deutschland,2019.0,10.0,15.0,,,,20.0,46.0,20.0,,11.0,31.0,,,,13.0,4.0,,,7.0,38.0,,906.0,1114.0,36.0,20.0,64.0,33.0,81.0,203.0,9.0
+Karim Bellarabi,Bayer 04 Leverkusen,Rechtsaußen,19.0,28.0,5.0,0.0,5.0,Deutschland & Marokko,1131.0,11.0,11.0,,,,7.0,52.0,17.0,,19.0,43.0,,,,,6.0,,,,,,335.0,492.0,43.0,7.0,28.0,25.0,46.0,130.0,15.0
+Breel Embolo,FC Schalke 04,Mittelstürmer,20.0,22.0,4.0,0.0,5.0,Schweiz & Kamerun,1411.0,13.0,,,,,17.0,80.0,30.0,,27.0,70.0,,,,,6.0,,,29.0,77.0,,166.0,261.0,26.0,17.0,30.0,16.0,109.0,275.0,14.0
+Leon Bailey,Bayer 04 Leverkusen,Linksaußen,29.0,21.0,2.0,0.0,5.0,Jamaika,2018.0,17.0,16.0,,,,11.0,72.0,17.0,,50.0,78.0,,,,,5.0,,,13.0,27.0,,621.0,948.0,56.0,11.0,29.0,45.0,112.0,227.0,40.0
+Claudio Pizarro,SV Werder Bremen,Mittelstürmer,26.0,40.0,2.0,0.0,5.0,Peru & Italien,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Anastasios Donis,VfB Stuttgart,Mittelstürmer,24.0,22.0,2.0,0.0,5.0,Griechenland & England,1017.0,10.0,,,,,13.0,32.0,21.0,,17.0,35.0,,,,,,,,10.0,46.0,,,,30.0,13.0,21.0,6.0,55.0,146.0,4.0
+Steven Zuber,Spiel für mehrere Vereine,Linkes Mittelfeld,22.0,27.0,2.0,1.0,5.0,Schweiz,1706.0,13.0,11.0,,,,12.0,52.0,22.0,,9.0,25.0,,,,,3.0,,,16.0,42.0,,521.0,711.0,48.0,12.0,36.0,17.0,66.0,179.0,7.0
+Renato Steffen,VfL Wolfsburg,Rechtsaußen,31.0,27.0,1.0,0.0,5.0,Schweiz,1592.0,8.0,16.0,,,,16.0,28.0,19.0,,20.0,31.0,,,,13.0,3.0,,,19.0,46.0,,431.0,577.0,27.0,16.0,34.0,14.0,92.0,172.0,5.0
+Lukas Klostermann,RasenBallsport Leipzig,Rechter Verteidiger,26.0,22.0,1.0,0.0,5.0,Deutschland,2141.0,6.0,29.0,,,,29.0,18.0,17.0,,7.0,17.0,,,,62.0,,,,43.0,70.0,,753.0,1019.0,13.0,29.0,66.0,18.0,111.0,189.0,30.0
+Marko Grujic,Hertha BSC,Zentrales Mittelfeld,22.0,23.0,1.0,0.0,5.0,Serbien,1907.0,20.0,29.0,,,,33.0,40.0,44.0,,29.0,49.0,,,,50.0,,,,69.0,105.0,,776.0,956.0,46.0,33.0,70.0,16.0,165.0,308.0,20.0
+Nicolai Müller,Spiel für mehrere Vereine,Rechtsaußen,21.0,31.0,0.0,0.0,5.0,Deutschland,1185.0,10.0,,,,,11.0,37.0,17.0,,18.0,31.0,,,,,,,,4.0,27.0,,218.0,317.0,23.0,11.0,41.0,12.0,58.0,150.0,
+Kerem Demirbay,TSG 1899 Hoffenheim,Zentrales Mittelfeld,26.0,25.0,9.0,0.0,4.0,Deutschland & Türkei,2132.0,17.0,24.0,,,,36.0,75.0,46.0,,57.0,80.0,,,,21.0,14.0,,,15.0,38.0,,1096.0,1417.0,58.0,36.0,95.0,76.0,162.0,344.0,32.0
+Jean-Paul Boëtius,1.FSV Mainz 05,Offensives Mittelfeld,30.0,25.0,8.0,0.0,4.0,Niederlande & Suriname,2257.0,13.0,35.0,,,,32.0,66.0,52.0,,30.0,56.0,,,,11.0,9.0,,,23.0,55.0,,648.0,859.0,46.0,32.0,76.0,29.0,150.0,322.0,6.0
+Emil Forsberg,RasenBallsport Leipzig,Linksaußen,20.0,27.0,8.0,3.0,4.0,Schweden,1305.0,14.0,,,,,7.0,46.0,7.0,,21.0,45.0,,,,,6.0,,,8.0,18.0,,405.0,529.0,30.0,7.0,23.0,38.0,65.0,139.0,25.0
+Marco Richter,FC Augsburg,Linksaußen,25.0,21.0,6.0,0.0,4.0,Deutschland,1510.0,23.0,13.0,,,,8.0,84.0,22.0,,33.0,75.0,1.0,,,,6.0,,,20.0,64.0,,316.0,474.0,55.0,8.0,23.0,17.0,91.0,250.0,7.0
+Marcel Sabitzer,RasenBallsport Leipzig,Rechtsaußen,30.0,25.0,5.0,0.0,4.0,Österreich,2492.0,17.0,33.0,,,,28.0,55.0,27.0,,15.0,28.0,,,,29.0,8.0,,,18.0,45.0,,836.0,1218.0,64.0,28.0,73.0,35.0,108.0,239.0,25.0
+André Hahn,FC Augsburg,Rechtsaußen,28.0,28.0,5.0,0.0,4.0,Deutschland,2207.0,15.0,26.0,,,,38.0,59.0,67.0,,18.0,49.0,,,,28.0,3.0,,,56.0,121.0,,301.0,559.0,37.0,38.0,92.0,28.0,157.0,374.0,
+Philipp Max,FC Augsburg,Linker Verteidiger,30.0,25.0,4.0,0.0,4.0,Deutschland,2732.0,13.0,22.0,,,,25.0,24.0,12.0,,10.0,19.0,1.0,,,39.0,9.0,,,24.0,62.0,,841.0,1244.0,24.0,25.0,52.0,58.0,88.0,178.0,17.0
+Mikael Ishak,1.FC Nürnberg,Mittelstürmer,29.0,26.0,4.0,0.0,4.0,Schweden & Syrien,2030.0,14.0,,,,,6.0,32.0,23.0,,11.0,21.0,,,,11.0,2.0,,,32.0,113.0,,291.0,421.0,39.0,6.0,22.0,20.0,84.0,233.0,4.0
+Christian Pulisic,Borussia Dortmund,Rechtsaußen,20.0,20.0,4.0,0.0,4.0,Vereinigte Staaten & Kroatien,1030.0,10.0,,,,,6.0,91.0,9.0,,43.0,92.0,,,,,3.0,,,15.0,44.0,,399.0,530.0,27.0,6.0,14.0,16.0,95.0,228.0,60.0
+Martin Harnik,SV Werder Bremen,Mittelstürmer,18.0,31.0,4.0,0.0,4.0,Österreich & Deutschland,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hanno Behrens,1.FC Nürnberg,Zentrales Mittelfeld,30.0,29.0,3.0,2.0,4.0,Deutschland,2795.0,9.0,34.0,,,,27.0,23.0,39.0,,8.0,16.0,,,,46.0,2.0,,,96.0,230.0,,617.0,912.0,39.0,27.0,71.0,21.0,172.0,390.0,
+Ihlas Bebou,Hannover 96,Rechtsaußen,12.0,25.0,3.0,1.0,4.0,Togo & Deutschland,1137.0,13.0,9.0,,,,9.0,52.0,9.0,,35.0,66.0,,,,,2.0,,,20.0,48.0,,292.0,438.0,27.0,9.0,18.0,15.0,90.0,183.0,12.0
+Johannes Eggestein,SV Werder Bremen,Rechtsaußen,23.0,21.0,2.0,0.0,4.0,Deutschland,1194.0,12.0,,,,,9.0,63.0,15.0,,15.0,43.0,,,,,3.0,,,13.0,51.0,,231.0,330.0,34.0,9.0,26.0,11.0,55.0,181.0,10.0
+Axel Witsel,Borussia Dortmund,Defensives Mittelfeld,33.0,30.0,1.0,0.0,4.0,Belgien & Martinique,3093.0,11.0,47.0,,,,33.0,35.0,26.0,,25.0,35.0,,,,47.0,3.0,,,46.0,76.0,,2248.0,2418.0,36.0,33.0,57.0,15.0,167.0,269.0,32.0
+Denis Zakaria,Borussia Mönchengladbach,Defensives Mittelfeld,31.0,22.0,1.0,0.0,4.0,Schweiz & DR Kongo,2088.0,14.0,24.0,,,,21.0,54.0,31.0,,30.0,62.0,,,,18.0,,,,15.0,35.0,,628.0,765.0,36.0,21.0,59.0,16.0,103.0,225.0,20.0
+Rani Khedira,FC Augsburg,Defensives Mittelfeld,30.0,25.0,1.0,0.0,4.0,Deutschland & Tunesien,2800.0,5.0,82.0,,,,39.0,14.0,47.0,,,,1.0,,,91.0,,,,61.0,118.0,,1023.0,1252.0,14.0,39.0,73.0,7.0,142.0,275.0,10.0
+Kaan Ayhan,Fortuna Düsseldorf,Innenverteidiger,28.0,24.0,1.0,0.0,4.0,Türkei & Deutschland,2603.0,9.0,63.0,,,,31.0,,25.0,,13.0,18.0,2.0,,,114.0,,,,42.0,71.0,,1262.0,1436.0,23.0,31.0,77.0,6.0,126.0,209.0,9.0
+Guido Burgstaller,FC Schalke 04,Mittelstürmer,24.0,30.0,1.0,0.0,4.0,Österreich,1643.0,18.0,,,,,9.0,62.0,24.0,,7.0,36.0,,,,,,,,33.0,96.0,,188.0,306.0,45.0,9.0,16.0,8.0,75.0,226.0,5.5
+Florian Niederlechner,SC Freiburg,Mittelstürmer,24.0,28.0,1.0,0.0,4.0,Deutschland,1006.0,18.0,,,,,,29.0,23.0,,9.0,24.0,,,,,,,,14.0,43.0,,,,31.0,,,8.0,48.0,131.0,
+Dong-won Ji,FC Augsburg,Mittelstürmer,14.0,27.0,1.0,0.0,4.0,Südkorea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Lucas Höler,SC Freiburg,Mittelstürmer,26.0,24.0,0.0,0.0,4.0,Deutschland,1083.0,11.0,,,,,16.0,49.0,17.0,,8.0,33.0,2.0,,,14.0,,,,14.0,44.0,,172.0,261.0,26.0,16.0,32.0,8.0,68.0,173.0,
+Willi Orban,RasenBallsport Leipzig,Innenverteidiger,24.0,26.0,0.0,0.0,4.0,Ungarn & Deutschland,2167.0,10.0,37.0,,,,26.0,,27.0,,,,,,,139.0,,,,111.0,181.0,,783.0,999.0,27.0,26.0,62.0,,190.0,301.0,20.0
+Anthony Ujah,1.FSV Mainz 05,Mittelstürmer,22.0,28.0,0.0,0.0,4.0,Nigeria,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Arjen Robben,FC Bayern München,Rechtsaußen,12.0,35.0,0.0,0.0,4.0,Niederlande,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0
+Dawid Kownacki,Fortuna Düsseldorf,Mittelstürmer,10.0,22.0,0.0,0.0,4.0,Polen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9.0
+Florian Neuhaus,Borussia Mönchengladbach,Zentrales Mittelfeld,32.0,22.0,9.0,0.0,3.0,Deutschland,2164.0,13.0,10.0,,,,15.0,65.0,26.0,,29.0,59.0,,,,21.0,5.0,,,7.0,27.0,,734.0,894.0,51.0,15.0,45.0,28.0,98.0,229.0,22.0
+Davie Selke,Hertha BSC,Mittelstürmer,30.0,24.0,9.0,0.0,3.0,Deutschland,1869.0,21.0,,,,,,61.0,28.0,,22.0,55.0,,,,,5.0,,,105.0,198.0,,276.0,475.0,45.0,,,19.0,158.0,345.0,18.0
+Valentino Lazaro,Hertha BSC,Rechtes Mittelfeld,31.0,23.0,7.0,0.0,3.0,Österreich,2918.0,8.0,44.0,,,,33.0,65.0,23.0,,34.0,74.0,,,,54.0,12.0,,,20.0,65.0,,1175.0,1621.0,20.0,33.0,78.0,53.0,128.0,293.0,17.0
+Jonathan Schmid,FC Augsburg,Rechter Verteidiger,28.0,28.0,7.0,0.0,3.0,Frankreich,2687.0,10.0,41.0,,,,22.0,40.0,21.0,,16.0,36.0,2.0,,,59.0,2.0,,,29.0,55.0,,1104.0,1404.0,18.0,22.0,56.0,44.0,110.0,208.0,5.0
+Thomas Delaney,Borussia Dortmund,Zentrales Mittelfeld,30.0,27.0,6.0,0.0,3.0,Dänemark & Vereinigte Staaten,2427.0,10.0,57.0,,,,54.0,21.0,45.0,,10.0,17.0,,,,43.0,3.0,,,54.0,97.0,,1382.0,1624.0,33.0,54.0,80.0,13.0,157.0,273.0,27.0
+Marcel Halstenberg,RasenBallsport Leipzig,Linker Verteidiger,28.0,27.0,6.0,2.0,3.0,Deutschland,2556.0,10.0,38.0,,,,43.0,40.0,24.0,,29.0,44.0,,,,53.0,14.0,,,70.0,106.0,,1153.0,1590.0,23.0,43.0,90.0,55.0,187.0,310.0,22.0
+Jonathan de Guzmán,Eintracht Frankfurt,Zentrales Mittelfeld,28.0,31.0,6.0,0.0,3.0,Niederlande & Kanada,1678.0,7.0,11.0,,,,24.0,24.0,18.0,,13.0,20.0,,,,12.0,9.0,,,24.0,42.0,,688.0,944.0,22.0,24.0,49.0,35.0,88.0,161.0,
+Jérôme Roussillon,VfL Wolfsburg,Linker Verteidiger,28.0,26.0,6.0,0.0,3.0,Frankreich & Guadeloupe,2617.0,10.0,31.0,,,,29.0,80.0,20.0,,48.0,91.0,,,,37.0,4.0,,,23.0,51.0,,1020.0,1361.0,20.0,29.0,54.0,31.0,154.0,291.0,20.0
+Daniel Brosinski,1.FSV Mainz 05,Rechter Verteidiger,26.0,30.0,6.0,3.0,3.0,Deutschland,2343.0,6.0,30.0,,,,16.0,27.0,13.0,,6.0,22.0,,,,44.0,6.0,,,19.0,49.0,,946.0,1343.0,18.0,16.0,42.0,40.0,65.0,149.0,
+Pavel Kaderabek,TSG 1899 Hoffenheim,Rechter Verteidiger,29.0,27.0,4.0,0.0,3.0,Tschechien,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,20.0
+Theodor Gebre Selassie,SV Werder Bremen,Rechter Verteidiger,32.0,32.0,3.0,0.0,3.0,Tschechien & Äthiopien,3018.0,13.0,68.0,,,,38.0,38.0,33.0,,14.0,31.0,,,,87.0,2.0,,,101.0,181.0,,1352.0,1669.0,27.0,38.0,81.0,21.0,199.0,379.0,
+David Alaba,FC Bayern München,Linker Verteidiger,31.0,26.0,3.0,0.0,3.0,Österreich,2688.0,16.0,32.0,,,,20.0,31.0,12.0,,28.0,39.0,,,,30.0,6.0,,,24.0,43.0,,1766.0,2140.0,47.0,20.0,40.0,28.0,94.0,163.0,55.0
+John Anthony Brooks,VfL Wolfsburg,Innenverteidiger,29.0,26.0,3.0,0.0,3.0,Vereinigte Staaten & Deutschland,2798.0,6.0,40.0,,,,15.0,12.0,14.0,,,,1.0,,,131.0,,,,74.0,102.0,,1490.0,1738.0,19.0,15.0,44.0,,120.0,188.0,15.0
+Josip Brekalo,VfL Wolfsburg,Linksaußen,25.0,20.0,3.0,0.0,3.0,Kroatien,1515.0,13.0,15.0,,,,6.0,63.0,16.0,,32.0,70.0,1.0,,,,,,,7.0,21.0,,424.0,623.0,26.0,6.0,28.0,20.0,75.0,180.0,10.0
+Eduard Löwen,1.FC Nürnberg,Zentrales Mittelfeld,22.0,22.0,3.0,0.0,3.0,Deutschland & Russland,1717.0,13.0,10.0,,,,21.0,77.0,18.0,,29.0,70.0,,,,18.0,2.0,,,17.0,48.0,,539.0,726.0,37.0,21.0,52.0,13.0,101.0,247.0,7.0
+Lars Stindl,Borussia Mönchengladbach,Hängende Spitze,21.0,30.0,3.0,0.0,3.0,Deutschland,1585.0,12.0,14.0,,,,13.0,28.0,19.0,,15.0,28.0,,,,12.0,5.0,,,20.0,41.0,,623.0,758.0,34.0,13.0,32.0,22.0,85.0,163.0,10.0
+Yuya Osako,SV Werder Bremen,Mittelstürmer,21.0,29.0,3.0,0.0,3.0,Japan,1435.0,6.0,7.0,,,,11.0,49.0,20.0,,14.0,20.0,,,,,3.0,,,28.0,53.0,,360.0,505.0,27.0,11.0,38.0,16.0,86.0,192.0,5.0
+Patrick Herrmann,Borussia Mönchengladbach,Rechtsaußen,24.0,28.0,2.0,0.0,3.0,Deutschland,1184.0,4.0,,,,,14.0,21.0,16.0,,12.0,25.0,,,,11.0,5.0,,,8.0,26.0,,393.0,527.0,19.0,14.0,31.0,24.0,50.0,114.0,4.5
+Kenan Karaman,Fortuna Düsseldorf,Linksaußen,21.0,25.0,2.0,0.0,3.0,Türkei & Deutschland,1007.0,9.0,,,,,9.0,28.0,15.0,,18.0,30.0,,,,,3.0,,,29.0,59.0,,197.0,281.0,22.0,9.0,20.0,13.0,76.0,152.0,
+Matheus Pereira,1.FC Nürnberg,Rechtsaußen,19.0,22.0,2.0,0.0,3.0,Brasilien & Portugal,1311.0,10.0,13.0,,,,12.0,37.0,28.0,,40.0,56.0,,,,,,,,5.0,23.0,,343.0,479.0,29.0,12.0,26.0,14.0,109.0,200.0,5.5
+Nadiem Amiri,TSG 1899 Hoffenheim,Zentrales Mittelfeld,13.0,22.0,2.0,0.0,3.0,Deutschland & Afghanistan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17.0
+Jonathan Tah,Bayer 04 Leverkusen,Innenverteidiger,33.0,23.0,1.0,0.0,3.0,Deutschland & Elfenbeinküste,3130.0,4.0,46.0,,,,30.0,15.0,16.0,,17.0,20.0,1.0,,,137.0,,,,76.0,109.0,,2237.0,2493.0,12.0,30.0,58.0,6.0,150.0,229.0,40.0
+Nabil Bentaleb,FC Schalke 04,Zentrales Mittelfeld,25.0,24.0,1.0,3.0,3.0,Algerien & Frankreich,1935.0,7.0,35.0,,,,18.0,23.0,30.0,,20.0,29.0,,,,17.0,2.0,,,38.0,55.0,,729.0,945.0,21.0,18.0,49.0,15.0,108.0,191.0,13.0
+Kevin Möhwald,SV Werder Bremen,Offensives Mittelfeld,23.0,25.0,1.0,0.0,3.0,Deutschland,984.0,10.0,17.0,,,,10.0,20.0,15.0,,9.0,18.0,,,,13.0,,,,11.0,26.0,,406.0,506.0,20.0,10.0,31.0,9.0,59.0,125.0,4.0
+Bobby Wood,Hannover 96,Mittelstürmer,20.0,26.0,1.0,0.0,3.0,Vereinigte Staaten,1273.0,9.0,,,,,9.0,73.0,18.0,,6.0,22.0,,,,,2.0,,,24.0,56.0,,227.0,300.0,18.0,9.0,15.0,10.0,55.0,179.0,
+Steven Skrzybski,FC Schalke 04,Rechtsaußen,12.0,26.0,1.0,0.0,3.0,Deutschland,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Gonçalo Paciência,Eintracht Frankfurt,Mittelstürmer,11.0,24.0,1.0,0.0,3.0,Portugal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.0
+Jonathas,Hannover 96,Mittelstürmer,10.0,30.0,1.0,1.0,3.0,Brasilien,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Martin Hinteregger,Spiel für mehrere Vereine,Innenverteidiger,32.0,26.0,0.0,0.0,3.0,Österreich,2904.0,7.0,39.0,,,,61.0,17.0,27.0,,7.0,14.0,,,,115.0,,,,105.0,164.0,,1078.0,1448.0,29.0,61.0,108.0,9.0,217.0,345.0,16.0
+Robin Knoche,VfL Wolfsburg,Innenverteidiger,31.0,26.0,0.0,0.0,3.0,Deutschland,2986.0,5.0,42.0,,,,20.0,,13.0,,7.0,9.0,2.0,,,135.0,,,,77.0,136.0,,1752.0,2040.0,14.0,20.0,39.0,,127.0,217.0,8.0
+Javi Martínez,FC Bayern München,Defensives Mittelfeld,21.0,30.0,0.0,0.0,3.0,Spanien,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,27.0
+Sergio Córdova,FC Augsburg,Mittelstürmer,20.0,21.0,0.0,0.0,3.0,Venezuela,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Oliver Fink,Fortuna Düsseldorf,Zentrales Mittelfeld,18.0,36.0,0.0,0.0,3.0,Deutschland,1118.0,3.0,13.0,,,,23.0,32.0,25.0,,9.0,19.0,,,,19.0,,,,69.0,147.0,,232.0,397.0,12.0,23.0,63.0,,135.0,293.0,
+Jean-Kévin Augustin,RasenBallsport Leipzig,Mittelstürmer,17.0,21.0,0.0,0.0,3.0,Frankreich & Haiti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16.0
+Ozan Kabak,VfB Stuttgart,Innenverteidiger,15.0,19.0,0.0,0.0,3.0,Türkei,1431.0,5.0,23.0,,,,19.0,,21.0,,14.0,18.0,1.0,,,53.0,,,,54.0,81.0,,432.0,561.0,11.0,19.0,43.0,,113.0,177.0,15.0
+Joshua Kimmich,FC Bayern München,Rechter Verteidiger,34.0,24.0,14.0,0.0,2.0,Deutschland,3247.0,9.0,37.0,,,,27.0,54.0,27.0,,38.0,67.0,2.0,,,33.0,20.0,,,24.0,46.0,,2580.0,3012.0,25.0,27.0,74.0,81.0,159.0,290.0,70.0
+Maximilian Arnold,VfL Wolfsburg,Zentrales Mittelfeld,33.0,24.0,7.0,0.0,2.0,Deutschland,3047.0,23.0,36.0,,,,29.0,35.0,45.0,,24.0,30.0,1.0,,,44.0,7.0,,,26.0,69.0,,1110.0,1465.0,54.0,29.0,86.0,45.0,180.0,339.0,15.0
+Charles Aránguiz,Bayer 04 Leverkusen,Zentrales Mittelfeld,24.0,30.0,7.0,0.0,2.0,Chile,1994.0,5.0,25.0,,,,29.0,35.0,27.0,,9.0,17.0,1.0,,,25.0,4.0,,,12.0,23.0,,1455.0,1652.0,23.0,29.0,93.0,28.0,99.0,217.0,15.0
+Yannick Gerhardt,VfL Wolfsburg,Zentrales Mittelfeld,30.0,25.0,6.0,0.0,2.0,Deutschland,2612.0,8.0,29.0,,,,35.0,55.0,28.0,,10.0,30.0,,,,31.0,5.0,,,22.0,64.0,,770.0,1020.0,36.0,35.0,80.0,20.0,125.0,276.0,10.0
+Thiago,FC Bayern München,Zentrales Mittelfeld,30.0,28.0,6.0,0.0,2.0,Spanien & Brasilien,2544.0,8.0,44.0,,,,67.0,40.0,52.0,,54.0,66.0,1.0,,,18.0,5.0,,,34.0,73.0,,2316.0,2576.0,23.0,67.0,112.0,38.0,211.0,357.0,70.0
+Kevin Kampl,RasenBallsport Leipzig,Zentrales Mittelfeld,27.0,28.0,6.0,0.0,2.0,Slowenien & Deutschland,2212.0,15.0,33.0,,,,24.0,34.0,30.0,,24.0,32.0,,,,20.0,7.0,,,17.0,30.0,,1240.0,1508.0,34.0,24.0,60.0,45.0,89.0,184.0,22.0
+Raphaël Guerreiro,Borussia Dortmund,Linkes Mittelfeld,23.0,25.0,6.0,0.0,2.0,Portugal & Frankreich,1633.0,14.0,19.0,,,,12.0,45.0,10.0,,31.0,53.0,1.0,,,,8.0,,,6.0,26.0,,956.0,1161.0,35.0,12.0,36.0,37.0,83.0,168.0,25.0
+Danny da Costa,Eintracht Frankfurt,Rechter Verteidiger,34.0,25.0,4.0,0.0,2.0,Deutschland & Angola,3253.0,6.0,30.0,,,,36.0,77.0,33.0,,29.0,83.0,,,,55.0,9.0,,,50.0,100.0,,847.0,1339.0,20.0,36.0,86.0,33.0,161.0,342.0,15.0
+Gonzalo Castro,VfB Stuttgart,Zentrales Mittelfeld,25.0,31.0,4.0,0.0,2.0,Deutschland & Spanien,1786.0,3.0,30.0,,,,30.0,27.0,28.0,,6.0,13.0,1.0,,,20.0,3.0,,,12.0,36.0,,664.0,906.0,13.0,30.0,73.0,29.0,83.0,182.0,
+Achraf Hakimi,Borussia Dortmund,Rechter Verteidiger,21.0,20.0,4.0,0.0,2.0,Marokko & Spanien,1871.0,5.0,28.0,,,,19.0,56.0,14.0,,39.0,67.0,2.0,,,39.0,4.0,,,14.0,32.0,,1340.0,1574.0,20.0,19.0,53.0,12.0,123.0,229.0,30.0
+Javairô Dilrosun,Hertha BSC,Linksaußen,17.0,20.0,4.0,0.0,2.0,Niederlande & Suriname,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12.0
+William,VfL Wolfsburg,Rechter Verteidiger,31.0,24.0,3.0,0.0,2.0,Brasilien,2864.0,7.0,86.0,,,,57.0,47.0,37.0,,27.0,53.0,3.0,,,114.0,3.0,,,49.0,86.0,,1308.0,1780.0,25.0,57.0,121.0,40.0,177.0,335.0,7.0
+Nicólas González,VfB Stuttgart,Mittelstürmer,30.0,21.0,3.0,0.0,2.0,Argentinien,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.5
+Mike Frantz,SC Freiburg,Zentrales Mittelfeld,31.0,32.0,2.0,0.0,2.0,Deutschland,2302.0,10.0,20.0,,,,25.0,26.0,20.0,,7.0,17.0,,,,29.0,3.0,,,47.0,94.0,,502.0,670.0,19.0,25.0,48.0,16.0,123.0,230.0,
+Wendell,Bayer 04 Leverkusen,Linker Verteidiger,28.0,25.0,2.0,1.0,2.0,Brasilien,2426.0,6.0,28.0,,,,48.0,14.0,36.0,,7.0,16.0,,,,57.0,3.0,,,41.0,82.0,,1616.0,1918.0,11.0,48.0,98.0,16.0,135.0,250.0,20.0
+Emiliano Insúa,VfB Stuttgart,Linker Verteidiger,27.0,30.0,2.0,0.0,2.0,Argentinien & Spanien,2219.0,5.0,32.0,,,,35.0,45.0,18.0,,34.0,60.0,1.0,,,45.0,6.0,,,22.0,51.0,,991.0,1347.0,8.0,35.0,68.0,27.0,118.0,223.0,
+Jérôme Gondorf,SC Freiburg,Zentrales Mittelfeld,25.0,30.0,2.0,0.0,2.0,Deutschland,1404.0,7.0,19.0,,,,19.0,29.0,29.0,,6.0,17.0,1.0,,,21.0,6.0,,,18.0,42.0,,350.0,513.0,23.0,19.0,47.0,20.0,82.0,173.0,
+Jacob Bruun Larsen,Borussia Dortmund,Linksaußen,24.0,20.0,2.0,0.0,2.0,Dänemark,1350.0,9.0,13.0,,,,8.0,46.0,,,15.0,41.0,,,,12.0,4.0,,,14.0,31.0,,412.0,534.0,26.0,8.0,24.0,17.0,52.0,128.0,15.0
+Elvis Rexhbecaj,VfL Wolfsburg,Zentrales Mittelfeld,24.0,21.0,2.0,0.0,2.0,Deutschland,1225.0,4.0,13.0,,,,16.0,29.0,12.0,,9.0,18.0,,,,16.0,2.0,,,19.0,41.0,,289.0,416.0,10.0,16.0,37.0,8.0,87.0,160.0,8.0
+Daniel Didavi,VfB Stuttgart,Offensives Mittelfeld,20.0,29.0,2.0,0.0,2.0,Deutschland & Benin,1027.0,10.0,,,,,15.0,27.0,12.0,,11.0,17.0,,,,,2.0,,,6.0,21.0,,326.0,461.0,24.0,15.0,33.0,28.0,68.0,133.0,4.0
+Mark Uth,FC Schalke 04,Mittelstürmer,20.0,27.0,2.0,0.0,2.0,Deutschland,1507.0,15.0,8.0,,,,11.0,39.0,26.0,,16.0,40.0,,,,11.0,2.0,,,14.0,51.0,,275.0,383.0,39.0,11.0,39.0,12.0,74.0,191.0,12.0
+Jordan Torunarigha,Hertha BSC,Innenverteidiger,14.0,21.0,2.0,0.0,2.0,Deutschland & Nigeria,1233.0,,30.0,,,,28.0,13.0,26.0,,,,,,,54.0,2.0,,,37.0,53.0,,391.0,496.0,,28.0,43.0,,76.0,142.0,10.0
+Jean-Philippe Gbamin,1.FSV Mainz 05,Defensives Mittelfeld,31.0,23.0,1.0,0.0,2.0,Elfenbeinküste & Frankreich,2840.0,7.0,31.0,,,,33.0,88.0,38.0,,34.0,72.0,,,,32.0,2.0,,,53.0,89.0,,1082.0,1366.0,35.0,33.0,83.0,20.0,172.0,360.0,28.0
+Nico Elvedi,Borussia Mönchengladbach,Innenverteidiger,30.0,22.0,1.0,0.0,2.0,Schweiz,2776.0,3.0,49.0,,,,19.0,,17.0,,9.0,11.0,6.0,,,130.0,,,,80.0,134.0,,1928.0,2081.0,14.0,19.0,52.0,,145.0,232.0,30.0
+Ja-cheol Koo,FC Augsburg,Zentrales Mittelfeld,26.0,30.0,1.0,0.0,2.0,Südkorea,1744.0,8.0,24.0,,,,24.0,51.0,26.0,,14.0,25.0,,,,18.0,,,,23.0,58.0,,505.0,629.0,26.0,24.0,52.0,21.0,108.0,233.0,
+Suat Serdar,FC Schalke 04,Zentrales Mittelfeld,26.0,22.0,1.0,0.0,2.0,Deutschland & Türkei,1831.0,9.0,22.0,,,,34.0,61.0,39.0,,38.0,63.0,1.0,,,,2.0,,,21.0,42.0,,316.0,441.0,30.0,34.0,88.0,12.0,139.0,291.0,13.0
+Matheus Cunha,RasenBallsport Leipzig,Mittelstürmer,25.0,19.0,1.0,0.0,2.0,Brasilien,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15.0
+Josuha Guilavogui,VfL Wolfsburg,Defensives Mittelfeld,19.0,28.0,1.0,0.0,2.0,Frankreich & Guinea,1666.0,5.0,44.0,,,,15.0,,24.0,,8.0,10.0,3.0,,,55.0,,,,29.0,49.0,,654.0,804.0,,15.0,41.0,8.0,75.0,137.0,12.0
+Christoph Kramer,Borussia Mönchengladbach,Defensives Mittelfeld,18.0,28.0,1.0,0.0,2.0,Deutschland,1207.0,3.0,20.0,,,,22.0,23.0,24.0,,9.0,16.0,,,,22.0,2.0,,,15.0,42.0,,651.0,736.0,8.0,22.0,66.0,8.0,79.0,178.0,10.0
+Mathew Leckie,Hertha BSC,Rechtsaußen,18.0,28.0,1.0,0.0,2.0,Australien,1017.0,9.0,13.0,,,,13.0,37.0,18.0,,10.0,28.0,,,,13.0,,,,46.0,66.0,,237.0,351.0,22.0,13.0,29.0,12.0,94.0,176.0,
+Niclas Füllkrug,Hannover 96,Mittelstürmer,14.0,26.0,1.0,1.0,2.0,Deutschland,1195.0,13.0,,,,,,34.0,20.0,,5.0,21.0,,,,15.0,,,,64.0,138.0,,268.0,388.0,37.0,,,13.0,85.0,215.0,8.0
+Adam Zrelak,1.FC Nürnberg,Mittelstürmer,14.0,24.0,1.0,0.0,2.0,Slowakei,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Joshua Brenet,TSG 1899 Hoffenheim,Rechter Verteidiger,14.0,25.0,1.0,0.0,2.0,Niederlande & Curacao,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5
+Raffael,Borussia Mönchengladbach,Hängende Spitze,13.0,34.0,1.0,0.0,2.0,Brasilien,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Niklas Süle,FC Bayern München,Innenverteidiger,31.0,23.0,0.0,0.0,2.0,Deutschland,2831.0,6.0,42.0,,,,23.0,,17.0,,,,,,,82.0,,,,80.0,104.0,,2385.0,2566.0,20.0,23.0,35.0,6.0,117.0,171.0,60.0
+Salif Sané,FC Schalke 04,Innenverteidiger,30.0,28.0,0.0,0.0,2.0,Senegal & Frankreich,2824.0,3.0,67.0,,,,38.0,,27.0,,13.0,15.0,3.0,,,143.0,,,,118.0,153.0,,1280.0,1541.0,19.0,38.0,72.0,,217.0,307.0,12.0
+Matthias Ginter,Borussia Mönchengladbach,Innenverteidiger,27.0,25.0,0.0,0.0,2.0,Deutschland,2522.0,8.0,19.0,,,,14.0,,12.0,,,,1.0,,,97.0,,,,67.0,111.0,,1535.0,1781.0,23.0,14.0,33.0,7.0,108.0,181.0,35.0
+Georg Margreitter,1.FC Nürnberg,Innenverteidiger,27.0,30.0,0.0,0.0,2.0,Österreich,2206.0,4.0,28.0,,,,24.0,10.0,10.0,,7.0,10.0,,,,137.0,,,,59.0,94.0,,990.0,1214.0,16.0,24.0,46.0,,120.0,180.0,
+Marc Oliver Kempf,VfB Stuttgart,Innenverteidiger,23.0,24.0,0.0,0.0,2.0,Deutschland,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.0
+Aleksandar Dragovic,Bayer 04 Leverkusen,Innenverteidiger,18.0,28.0,0.0,0.0,2.0,Österreich & Serbien,1443.0,3.0,26.0,,,,11.0,,11.0,,,,,,,63.0,,,,28.0,55.0,,978.0,1087.0,,11.0,21.0,,51.0,93.0,9.0
+Federico Palacios,1.FC Nürnberg,Mittelstürmer,17.0,24.0,0.0,0.0,2.0,Deutschland & Spanien,1022.0,,10.0,,,,10.0,34.0,9.0,,10.0,22.0,,,,,,,,9.0,24.0,,243.0,298.0,,10.0,29.0,6.0,48.0,115.0,
+Florent Muslija,Hannover 96,Offensives Mittelfeld,17.0,20.0,0.0,0.0,2.0,Deutschland & Kosovo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Dan-Axel Zagadou,Borussia Dortmund,Innenverteidiger,17.0,19.0,0.0,0.0,2.0,Frankreich & Elfenbeinküste,1361.0,3.0,25.0,,,,10.0,,13.0,,12.0,12.0,2.0,,,69.0,,,,48.0,69.0,,918.0,1046.0,10.0,10.0,14.0,,76.0,115.0,28.0
+Felipe,Hannover 96,Innenverteidiger,17.0,31.0,0.0,0.0,2.0,Brasilien & Italien,1173.0,,37.0,,,,15.0,,17.0,,,,,,,70.0,,,,30.0,55.0,,370.0,497.0,10.0,15.0,30.0,,72.0,124.0,
+Ahmed Kutucu,FC Schalke 04,Mittelstürmer,13.0,19.0,0.0,0.0,2.0,Türkei & Deutschland,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5
+Roland Sallai,SC Freiburg,Linksaußen,10.0,21.0,0.0,0.0,2.0,Ungarn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5
+Josh Sargent,SV Werder Bremen,Mittelstürmer,10.0,19.0,0.0,0.0,2.0,Vereinigte Staaten,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0
+Josip Drmic,Borussia Mönchengladbach,Mittelstürmer,5.0,26.0,0.0,0.0,2.0,Schweiz & Kroatien,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Kevin Stöger,Fortuna Düsseldorf,Offensives Mittelfeld,25.0,25.0,7.0,0.0,1.0,Österreich,2255.0,10.0,29.0,,,,34.0,42.0,47.0,,28.0,45.0,1.0,,,18.0,11.0,,,,,,1198.0,1456.0,33.0,34.0,100.0,54.0,153.0,290.0,5.0
+Nico Schulz,TSG 1899 Hoffenheim,Linker Verteidiger,30.0,26.0,6.0,0.0,1.0,Deutschland,2711.0,8.0,25.0,,,,20.0,86.0,30.0,,51.0,115.0,,,,29.0,13.0,,,9.0,27.0,,1166.0,1555.0,30.0,20.0,54.0,60.0,114.0,268.0,25.0
+Lukasz Piszczek,Borussia Dortmund,Rechter Verteidiger,20.0,33.0,6.0,0.0,1.0,Polen,1876.0,4.0,42.0,,,,36.0,24.0,16.0,,8.0,25.0,,,,59.0,3.0,,,59.0,90.0,,1079.0,1330.0,12.0,36.0,74.0,20.0,134.0,222.0,
+Ludwig Augustinsson,SV Werder Bremen,Linker Verteidiger,34.0,25.0,5.0,0.0,1.0,Schweden,3237.0,6.0,36.0,,,,31.0,34.0,41.0,,11.0,31.0,2.0,,,72.0,3.0,,,63.0,130.0,,1546.0,1967.0,22.0,31.0,67.0,26.0,154.0,308.0,12.0
+Bastian Oczipka,FC Schalke 04,Linker Verteidiger,21.0,30.0,5.0,0.0,1.0,Deutschland,2015.0,,25.0,,,,27.0,51.0,16.0,,23.0,53.0,2.0,,,21.0,6.0,,,11.0,23.0,,808.0,1076.0,13.0,27.0,45.0,45.0,97.0,180.0,4.0
+Mitchell Weiser,Bayer 04 Leverkusen,Rechter Verteidiger,30.0,25.0,4.0,0.0,1.0,Deutschland,2256.0,7.0,27.0,,,,37.0,64.0,32.0,,27.0,61.0,,,,39.0,4.0,,,21.0,66.0,,1267.0,1596.0,13.0,37.0,87.0,28.0,148.0,311.0,14.0
+Janik Haberer,SC Freiburg,Zentrales Mittelfeld,27.0,25.0,4.0,0.0,1.0,Deutschland,2497.0,4.0,37.0,,,,47.0,58.0,46.0,,22.0,38.0,,,,49.0,4.0,,,52.0,106.0,,841.0,1074.0,26.0,47.0,109.0,45.0,189.0,386.0,10.0
+Weston McKennie,FC Schalke 04,Zentrales Mittelfeld,24.0,20.0,4.0,0.0,1.0,Vereinigte Staaten,1872.0,9.0,35.0,,,,14.0,38.0,33.0,,16.0,31.0,1.0,,,43.0,3.0,,,86.0,138.0,,488.0,710.0,25.0,14.0,53.0,18.0,145.0,290.0,20.0
+Lars Bender,Bayer 04 Leverkusen,Defensives Mittelfeld,20.0,30.0,4.0,0.0,1.0,Deutschland,1428.0,5.0,22.0,,,,30.0,11.0,27.0,,10.0,16.0,,,,23.0,,,,35.0,71.0,,768.0,931.0,16.0,30.0,56.0,13.0,114.0,202.0,9.0
+Matthias Zimmermann,Fortuna Düsseldorf,Rechter Verteidiger,34.0,26.0,3.0,0.0,1.0,Deutschland,3243.0,4.0,71.0,,,,63.0,29.0,49.0,,19.0,35.0,2.0,,,79.0,5.0,,,33.0,69.0,,1231.0,1643.0,15.0,63.0,141.0,20.0,177.0,334.0,5.0
+Miiko Albornoz,Hannover 96,Linker Verteidiger,22.0,28.0,3.0,0.0,1.0,Chile & Schweden,1779.0,4.0,16.0,,,,26.0,39.0,34.0,,8.0,29.0,1.0,,,31.0,3.0,,,8.0,31.0,,716.0,958.0,11.0,26.0,71.0,17.0,97.0,218.0,
+Leonardo Bittencourt,TSG 1899 Hoffenheim,Offensives Mittelfeld,21.0,25.0,3.0,0.0,1.0,Deutschland & Brasilien,1146.0,9.0,13.0,,,,26.0,30.0,17.0,,9.0,25.0,,,,,2.0,,,5.0,19.0,,354.0,472.0,23.0,26.0,63.0,20.0,83.0,167.0,7.0
+Linton Maina,Hannover 96,Rechtes Mittelfeld,20.0,19.0,3.0,0.0,1.0,Deutschland,1460.0,3.0,14.0,,,,17.0,45.0,9.0,,19.0,47.0,,,,,4.0,,,2.0,20.0,,371.0,501.0,21.0,17.0,41.0,16.0,64.0,148.0,7.0
+Takashi Usami,Fortuna Düsseldorf,Linksaußen,19.0,27.0,3.0,0.0,1.0,Japan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ermin Bicakcic,TSG 1899 Hoffenheim,Innenverteidiger,25.0,29.0,2.0,0.0,1.0,Bosnien-Herzegowina & Deutschland,1920.0,5.0,61.0,,,,19.0,,18.0,,,,1.0,,,76.0,,,,53.0,84.0,,1031.0,1171.0,10.0,19.0,41.0,,101.0,167.0,4.0
+Maximilian Mittelstädt,Hertha BSC,Linker Verteidiger,25.0,22.0,2.0,0.0,1.0,Deutschland,1929.0,7.0,45.0,,,,37.0,41.0,14.0,,23.0,39.0,,,,51.0,,,,42.0,66.0,,650.0,898.0,23.0,37.0,86.0,20.0,147.0,251.0,11.0
+Virgil Misidjan,1.FC Nürnberg,Rechtsaußen,23.0,25.0,2.0,0.0,1.0,Niederlande & Suriname,1624.0,8.0,9.0,,,,13.0,114.0,35.0,,42.0,112.0,,,,,,,,17.0,42.0,,270.0,396.0,23.0,13.0,43.0,8.0,134.0,328.0,
+Marvin Plattenhardt,Hertha BSC,Linker Verteidiger,22.0,27.0,2.0,0.0,1.0,Deutschland,2040.0,,7.0,,,,22.0,24.0,25.0,,8.0,19.0,,,,45.0,3.0,,,11.0,29.0,,824.0,1129.0,11.0,22.0,35.0,32.0,70.0,144.0,10.0
+Yunus Malli,VfL Wolfsburg,Offensives Mittelfeld,21.0,27.0,2.0,1.0,1.0,Türkei & Deutschland,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0
+Jean Zimmer,Fortuna Düsseldorf,Rechter Verteidiger,18.0,25.0,2.0,0.0,1.0,Deutschland,1505.0,3.0,13.0,,,,10.0,35.0,10.0,,7.0,29.0,1.0,,,25.0,3.0,,,,,,416.0,601.0,9.0,10.0,25.0,32.0,50.0,110.0,
+Amine Harit,FC Schalke 04,Offensives Mittelfeld,18.0,21.0,2.0,0.0,1.0,Marokko & Frankreich,1152.0,5.0,9.0,,,,8.0,56.0,9.0,,35.0,52.0,,,,,,,,7.0,23.0,,345.0,434.0,12.0,8.0,30.0,21.0,107.0,201.0,10.0
+Dominique Heintz,SC Freiburg,Innenverteidiger,34.0,25.0,1.0,0.0,1.0,Deutschland,3266.0,4.0,46.0,,,,23.0,17.0,30.0,,21.0,28.0,,,,210.0,,,,59.0,110.0,,1358.0,1662.0,10.0,23.0,59.0,7.0,135.0,247.0,7.5
+Moussa Niakhaté,1.FSV Mainz 05,Innenverteidiger,33.0,23.0,1.0,0.0,1.0,Frankreich & Mali,2975.0,3.0,46.0,,,,31.0,,36.0,,8.0,10.0,1.0,,,134.0,,,,72.0,118.0,,1261.0,1533.0,10.0,31.0,63.0,7.0,149.0,249.0,14.0
+Oscar Wendt,Borussia Mönchengladbach,Linker Verteidiger,32.0,33.0,1.0,0.0,1.0,Schweden,2908.0,5.0,21.0,,,,34.0,16.0,25.0,,7.0,17.0,,,,62.0,3.0,,,25.0,60.0,,1475.0,1856.0,8.0,34.0,67.0,27.0,95.0,190.0,
+Konrad Laimer,RasenBallsport Leipzig,Zentrales Mittelfeld,29.0,21.0,1.0,0.0,1.0,Österreich,1972.0,5.0,31.0,,,,39.0,67.0,40.0,,31.0,58.0,,,,19.0,5.0,,,20.0,49.0,,578.0,817.0,14.0,39.0,123.0,19.0,136.0,324.0,17.0
+Ibrahima Konaté,RasenBallsport Leipzig,Innenverteidiger,28.0,19.0,1.0,0.0,1.0,Frankreich,2581.0,4.0,58.0,,,,32.0,14.0,37.0,,22.0,26.0,,,,121.0,,,,97.0,135.0,,789.0,1037.0,12.0,32.0,56.0,,189.0,289.0,45.0
+Abdou Diallo,Borussia Dortmund,Innenverteidiger,28.0,23.0,1.0,0.0,1.0,Frankreich & Senegal,2554.0,4.0,27.0,,,,21.0,34.0,21.0,,40.0,58.0,1.0,,,85.0,,,,51.0,90.0,,1731.0,1957.0,10.0,21.0,41.0,10.0,140.0,238.0,35.0
+Evan N'Dicka,Eintracht Frankfurt,Innenverteidiger,27.0,19.0,1.0,0.0,1.0,Frankreich & Kamerun,2483.0,,32.0,,,,27.0,19.0,27.0,,5.0,13.0,,,,113.0,,,,71.0,122.0,,882.0,1113.0,13.0,27.0,63.0,,125.0,242.0,25.0
+Walace,Hannover 96,Defensives Mittelfeld,26.0,24.0,1.0,0.0,1.0,Brasilien,2138.0,6.0,46.0,,,,22.0,53.0,31.0,,23.0,44.0,1.0,,,36.0,,,,54.0,92.0,,914.0,1076.0,19.0,22.0,83.0,12.0,152.0,308.0,8.5
+Marvin Bakalorz,Hannover 96,Zentrales Mittelfeld,25.0,29.0,1.0,0.0,1.0,Deutschland,1590.0,5.0,27.0,,,,10.0,36.0,22.0,,10.0,28.0,,,,45.0,,,,30.0,54.0,,300.0,403.0,12.0,10.0,47.0,8.0,82.0,192.0,
+Alfredo Morales,Fortuna Düsseldorf,Zentrales Mittelfeld,23.0,29.0,1.0,0.0,1.0,Vereinigte Staaten & Deutschland,1653.0,9.0,25.0,,,,18.0,24.0,43.0,,3.0,12.0,,,,29.0,2.0,,,79.0,156.0,,504.0,678.0,19.0,18.0,51.0,7.0,130.0,287.0,
+Manuel Gulde,SC Freiburg,Innenverteidiger,21.0,28.0,1.0,0.0,1.0,Deutschland,1840.0,,24.0,,,,17.0,,9.0,,,,,,,85.0,,,,30.0,52.0,,719.0,876.0,,17.0,29.0,,76.0,113.0,4.0
+Mats Hummels,FC Bayern München,Innenverteidiger,21.0,30.0,1.0,0.0,1.0,Deutschland,1873.0,5.0,36.0,,,,17.0,,10.0,,9.0,11.0,1.0,,,48.0,2.0,,,83.0,121.0,,1559.0,1741.0,19.0,17.0,42.0,13.0,128.0,195.0,35.0
+Nuri Sahin,SV Werder Bremen,Defensives Mittelfeld,20.0,30.0,1.0,0.0,1.0,Türkei & Deutschland,1545.0,3.0,36.0,,,,33.0,16.0,28.0,,8.0,12.0,,,,39.0,,,,28.0,54.0,,936.0,1117.0,12.0,33.0,93.0,16.0,103.0,206.0,
+Nordi Mukiele,RasenBallsport Leipzig,Rechter Verteidiger,19.0,21.0,1.0,0.0,1.0,Frankreich & DR Kongo,1300.0,3.0,24.0,,,,21.0,26.0,19.0,,19.0,32.0,,,,34.0,3.0,,,36.0,64.0,,517.0,717.0,8.0,21.0,39.0,11.0,113.0,188.0,15.0
+Erik Thommy,VfB Stuttgart,Linkes Mittelfeld,19.0,24.0,1.0,0.0,1.0,Deutschland,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maximilian Philipp,Borussia Dortmund,Hängende Spitze,18.0,25.0,1.0,0.0,1.0,Deutschland,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13.0
+Kevin Danso,FC Augsburg,Innenverteidiger,18.0,20.0,1.0,0.0,1.0,Österreich,1346.0,6.0,19.0,,,,14.0,10.0,16.0,,,,,,,72.0,,,,45.0,74.0,,454.0,623.0,11.0,14.0,28.0,,86.0,144.0,8.0
+Fabian Johnson,Borussia Mönchengladbach,Linksaußen,18.0,31.0,1.0,0.0,1.0,Vereinigte Staaten & Deutschland,1082.0,,11.0,,,,,13.0,,,,,,,,13.0,,,,7.0,24.0,,446.0,559.0,,5.0,14.0,,34.0,70.0,
+Renato Sanches,FC Bayern München,Zentrales Mittelfeld,17.0,21.0,1.0,0.0,1.0,Portugal & Sao Tome und Principe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18.0
+Marvin Ducksch,Fortuna Düsseldorf,Mittelstürmer,16.0,25.0,1.0,0.0,1.0,Deutschland,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Törles Knöll,1.FC Nürnberg,Mittelstürmer,16.0,21.0,1.0,0.0,1.0,Deutschland,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Rafinha,FC Bayern München,Rechter Verteidiger,16.0,33.0,1.0,0.0,1.0,Brasilien & Deutschland,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Alessandro Schöpf,FC Schalke 04,Rechtes Mittelfeld,15.0,24.0,1.0,0.0,1.0,Österreich,1093.0,3.0,9.0,,,,17.0,37.0,28.0,,16.0,32.0,,,,,2.0,,,,,,380.0,476.0,18.0,17.0,42.0,14.0,54.0,146.0,5.0
+Felix Klaus,VfL Wolfsburg,Rechtsaußen,14.0,26.0,1.0,0.0,1.0,Deutschland,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bruma,RasenBallsport Leipzig,Linksaußen,14.0,24.0,1.0,0.0,1.0,Portugal & Guinea-Bissau,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10.0
+Alexander Hack,1.FSV Mainz 05,Innenverteidiger,14.0,25.0,1.0,0.0,1.0,Deutschland,1084.0,,41.0,,,,12.0,,13.0,,8.0,10.0,2.0,,,58.0,,,,43.0,74.0,,420.0,556.0,11.0,12.0,37.0,,87.0,141.0,
+Caiuby,FC Augsburg,Linksaußen,14.0,30.0,1.0,0.0,1.0,Brasilien,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Yevhen Konoplianka,FC Schalke 04,Linksaußen,13.0,29.0,1.0,0.0,1.0,Ukraine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.5
+Markus Suttner,Fortuna Düsseldorf,Linker Verteidiger,6.0,32.0,1.0,0.0,1.0,Österreich,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Waldemar Anton,Hannover 96,Innenverteidiger,34.0,22.0,0.0,0.0,1.0,Deutschland & Usbekistan,3278.0,5.0,69.0,,,,31.0,27.0,25.0,,17.0,30.0,2.0,,,164.0,,,,83.0,157.0,,1443.0,1730.0,24.0,31.0,75.0,,167.0,319.0,12.0
+Lukas Mühl,1.FC Nürnberg,Innenverteidiger,31.0,22.0,0.0,0.0,1.0,Deutschland,2972.0,3.0,53.0,,,,35.0,,25.0,,,,1.0,,,131.0,,,,46.0,93.0,,1225.0,1459.0,13.0,35.0,76.0,,117.0,213.0,4.5
+Gelson Fernandes,Eintracht Frankfurt,Defensives Mittelfeld,28.0,32.0,0.0,0.0,1.0,Schweiz & Kap Verde,2348.0,3.0,50.0,,,,48.0,20.0,56.0,,5.0,11.0,,,,16.0,,,,34.0,82.0,,705.0,846.0,,48.0,112.0,,117.0,281.0,
+Matija Nastasic,FC Schalke 04,Innenverteidiger,28.0,26.0,0.0,0.0,1.0,Serbien,2636.0,5.0,38.0,,,,24.0,,17.0,,,,1.0,,,113.0,,,,64.0,99.0,,1020.0,1240.0,21.0,24.0,47.0,,109.0,170.0,18.0
+Manuel Akanji,Borussia Dortmund,Innenverteidiger,25.0,23.0,0.0,0.0,1.0,Schweiz & Nigeria,2371.0,3.0,29.0,,,,20.0,11.0,13.0,,8.0,12.0,2.0,,,87.0,,,,45.0,82.0,,1722.0,1852.0,,20.0,41.0,6.0,100.0,171.0,40.0
+Robin Koch,SC Freiburg,Innenverteidiger,24.0,22.0,0.0,0.0,1.0,Deutschland,2048.0,,29.0,,,,14.0,17.0,20.0,,6.0,9.0,3.0,,,75.0,,,,65.0,113.0,,727.0,889.0,11.0,14.0,41.0,,114.0,215.0,10.0
+Milos Veljkovic,SV Werder Bremen,Innenverteidiger,23.0,23.0,0.0,0.0,1.0,Serbien & Schweiz,2010.0,3.0,32.0,,,,23.0,,21.0,,,,,,,105.0,,,,50.0,95.0,,1047.0,1240.0,9.0,23.0,48.0,,92.0,174.0,8.0
+Yuya Kubo,1.FC Nürnberg,Mittelstürmer,22.0,25.0,0.0,0.0,1.0,Japan,1430.0,11.0,10.0,,,,11.0,54.0,21.0,,11.0,36.0,,,,,,,,9.0,32.0,,290.0,411.0,29.0,11.0,42.0,9.0,65.0,180.0,
+Niklas Stark,Hertha BSC,Innenverteidiger,22.0,24.0,0.0,0.0,1.0,Deutschland,1996.0,5.0,35.0,,,,19.0,,20.0,,,,2.0,,,133.0,,,,54.0,87.0,,869.0,1036.0,12.0,19.0,48.0,,110.0,182.0,20.0
+Alexandru Maxim,1.FSV Mainz 05,Offensives Mittelfeld,22.0,28.0,0.0,0.0,1.0,Rumänien,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Julian Weigl,Borussia Dortmund,Defensives Mittelfeld,18.0,23.0,0.0,0.0,1.0,Deutschland,1567.0,,17.0,,,,19.0,,14.0,,,,2.0,,,53.0,,,,17.0,32.0,,1123.0,1208.0,,19.0,48.0,,70.0,119.0,25.0
+Timo Baumgartl,VfB Stuttgart,Innenverteidiger,18.0,23.0,0.0,0.0,1.0,Deutschland,1709.0,,27.0,,,,23.0,,12.0,,,,,,,96.0,,,,46.0,69.0,,703.0,860.0,,23.0,39.0,,95.0,138.0,9.0
+Michael Lang,Borussia Mönchengladbach,Rechter Verteidiger,17.0,28.0,0.0,0.0,1.0,Schweiz,1319.0,3.0,17.0,,,,10.0,11.0,10.0,,2.0,12.0,1.0,,,37.0,,,,17.0,30.0,,646.0,801.0,11.0,10.0,24.0,,41.0,84.0,4.5
+Marius Wolf,Borussia Dortmund,Rechtsaußen,16.0,23.0,0.0,0.0,1.0,Deutschland,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8.0
+Mahmoud Dahoud,Borussia Dortmund,Zentrales Mittelfeld,14.0,23.0,0.0,0.0,1.0,Deutschland & Syrien,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.0
+Marco Terrazzino,SC Freiburg,Linksaußen,13.0,28.0,0.0,0.0,1.0,Deutschland & Italien,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Marcel Tisserand,VfL Wolfsburg,Innenverteidiger,10.0,26.0,0.0,0.0,1.0,DR Kongo & Frankreich,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5
+Amadou Haidara,RasenBallsport Leipzig,Zentrales Mittelfeld,9.0,21.0,0.0,0.0,1.0,Mali,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,20.0
+Julian Schieber,FC Augsburg,Mittelstürmer,9.0,30.0,0.0,0.0,1.0,Deutschland,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Alexander Fuchs,1.FC Nürnberg,Zentrales Mittelfeld,9.0,22.0,0.0,0.0,1.0,Deutschland,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Haji Wright,FC Schalke 04,Mittelstürmer,7.0,20.0,0.0,0.0,1.0,Vereinigte Staaten,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Felix Götze,FC Augsburg,Defensives Mittelfeld,6.0,21.0,0.0,0.0,1.0,Deutschland,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Alphonso Davies,FC Bayern München,Linksaußen,6.0,18.0,0.0,0.0,1.0,Kanada & Liberia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10.0
+Corentin Tolisso,FC Bayern München,Zentrales Mittelfeld,2.0,24.0,0.0,0.0,1.0,Frankreich & Togo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40.0
+Gian-Luca Waldschmidt,SC Freiburg,Stürmer,30.0,,,,,,1830.0,30.0,15.0,,,,13.0,46.0,33.0,,20.0,41.0,1.0,,,,4.0,,,12.0,43.0,,476.0,609.0,64.0,13.0,37.0,22.0,78.0,204.0,
+James,FC Bayern München,Offensives Mittelfeld,20.0,,,,,,1200.0,19.0,,,,,7.0,23.0,7.0,,16.0,26.0,,,,,7.0,,,,,,806.0,971.0,36.0,7.0,27.0,51.0,46.0,97.0,
+Mario Gomez,VfB Stuttgart,Stürmer,31.0,,,,,,2344.0,21.0,,,,,11.0,35.0,32.0,,8.0,22.0,,,,33.0,4.0,,,90.0,174.0,,323.0,492.0,53.0,11.0,30.0,24.0,139.0,299.0,
+Alexander Esswein,VfB Stuttgart,Rechte Außenbahn,17.0,,,,,,1303.0,9.0,12.0,,,,11.0,33.0,18.0,,9.0,25.0,,,,13.0,,,,15.0,43.0,,295.0,452.0,29.0,11.0,32.0,17.0,58.0,152.0,
+Adam Zrelák,1. FC Nürnberg,Stürmer,14.0,,,,,,1019.0,6.0,,,,,10.0,12.0,19.0,,,,,,,12.0,,,,53.0,141.0,,,,17.0,10.0,18.0,7.0,74.0,195.0,
+Pascal Stenzel,SC Freiburg,Rechtsverteidiger,21.0,,,,,,1542.0,9.0,27.0,,,,26.0,,21.0,,,,1.0,,,45.0,3.0,,,23.0,40.0,,726.0,898.0,25.0,26.0,60.0,16.0,81.0,143.0,4.0
+Javier Martínez,FC Bayern München,Defensives Mittelfeld,21.0,,,,,,1393.0,8.0,29.0,,,,16.0,,12.0,,5.0,9.0,,,,12.0,,,,50.0,84.0,,796.0,909.0,18.0,16.0,38.0,6.0,95.0,159.0,
+Sebastian Kerk,1. FC Nürnberg,Linke Außenbahn,21.0,,,,,,1246.0,7.0,,,,,9.0,20.0,9.0,,4.0,10.0,1.0,,,15.0,3.0,,,11.0,19.0,,309.0,483.0,18.0,9.0,34.0,24.0,42.0,95.0,
+Javairo Dilrosun,Hertha BSC,Linke Außenbahn,17.0,,,,,,997.0,5.0,8.0,,,,10.0,31.0,8.0,,9.0,26.0,,,,,4.0,,,3.0,20.0,,179.0,246.0,11.0,10.0,18.0,12.0,47.0,105.0,
+Nicolás González,VfB Stuttgart,Stürmer,30.0,,,,,,2288.0,11.0,12.0,,,,13.0,75.0,28.0,,45.0,74.0,,,,25.0,5.0,,,113.0,208.0,,370.0,618.0,58.0,13.0,27.0,27.0,225.0,428.0,
+Pavel Kaderábek,TSG 1899 Hoffenheim,Rechtsverteidiger,29.0,,,,,,2689.0,12.0,36.0,,,,20.0,20.0,34.0,,8.0,16.0,1.0,,,62.0,7.0,,,52.0,83.0,,1053.0,1410.0,28.0,20.0,45.0,39.0,110.0,206.0,
+Florian Grillitsch,TSG 1899 Hoffenheim,Zentrales Mittelfeld,30.0,,,,,,2571.0,10.0,68.0,,,,48.0,21.0,41.0,,23.0,33.0,1.0,,,52.0,4.0,,,46.0,95.0,,1304.0,1568.0,32.0,48.0,118.0,27.0,191.0,344.0,22.0
+Dominik Kohr,Bayer 04 Leverkusen,Zentrales Mittelfeld,18.0,,,,,,1065.0,4.0,17.0,,,,28.0,16.0,22.0,,4.0,9.0,1.0,,,15.0,,,,12.0,29.0,,407.0,506.0,15.0,28.0,62.0,6.0,72.0,145.0,4.0
+Danny Latza,1. FSV Mainz 05,Defensives Mittelfeld,24.0,,,,,,1929.0,7.0,21.0,,,,23.0,43.0,25.0,,15.0,34.0,,,,27.0,,,,32.0,63.0,,823.0,1031.0,39.0,23.0,83.0,20.0,127.0,266.0,4.0
+Pierre Kunde,1. FSV Mainz 05,Zentrales Mittelfeld,29.0,,,,,,2028.0,7.0,26.0,,,,29.0,35.0,23.0,,23.0,35.0,1.0,,,47.0,,,,23.0,43.0,,939.0,1173.0,30.0,29.0,61.0,16.0,121.0,209.0,
+Daniel Baier,FC Augsburg,Defensives Mittelfeld,33.0,,,,,,2980.0,10.0,61.0,,,,40.0,38.0,51.0,,14.0,26.0,2.0,,,48.0,,,,29.0,72.0,,1225.0,1617.0,26.0,40.0,103.0,19.0,155.0,319.0,
+Genki Haraguchi,Hannover 96,Linke Außenbahn,28.0,,,,,,2285.0,7.0,21.0,,,,28.0,68.0,33.0,,45.0,85.0,,,,23.0,4.0,,,26.0,57.0,,657.0,861.0,32.0,28.0,95.0,26.0,150.0,329.0,
+Ridle Baku,1. FSV Mainz 05,Zentrales Mittelfeld,15.0,,,,,,997.0,3.0,8.0,,,,8.0,22.0,9.0,,7.0,20.0,,,,,,,,9.0,18.0,,366.0,449.0,11.0,8.0,22.0,6.0,46.0,91.0,
+Christian Gentner,VfB Stuttgart,Zentrales Mittelfeld,29.0,,,,,,2122.0,6.0,29.0,,,,41.0,30.0,30.0,,10.0,23.0,1.0,,,36.0,4.0,,,36.0,68.0,,714.0,1015.0,30.0,41.0,94.0,16.0,137.0,260.0,
+Arne Maier,Hertha BSC,Defensives Mittelfeld,24.0,,,,,,2187.0,6.0,29.0,,,,16.0,27.0,18.0,,22.0,36.0,,,,33.0,,,,21.0,40.0,,1027.0,1189.0,20.0,16.0,50.0,17.0,89.0,170.0,24.0
+Christian Günter,SC Freiburg,Linksverteidiger,32.0,,,,,,3082.0,8.0,14.0,,,,27.0,70.0,28.0,,39.0,88.0,,,,38.0,8.0,,,10.0,36.0,,1061.0,1468.0,29.0,27.0,61.0,47.0,112.0,256.0,9.0
+Niko Gießelmann,Fortuna Düsseldorf,Linksverteidiger,30.0,,,,,,2764.0,7.0,36.0,,,,37.0,23.0,26.0,,11.0,25.0,1.0,,,62.0,5.0,,,50.0,81.0,,996.0,1368.0,26.0,37.0,89.0,26.0,153.0,264.0,4.0
+Tin Jedvaj,Bayer 04 Leverkusen,Innenverteidiger,16.0,,,,,,1208.0,3.0,22.0,,,,15.0,15.0,13.0,,7.0,14.0,,,,50.0,,,,23.0,41.0,,564.0,714.0,9.0,15.0,31.0,,60.0,115.0,7.5
+Santiago Ascacibar,VfB Stuttgart,Defensives Mittelfeld,27.0,,,,,,2574.0,6.0,45.0,,,,50.0,25.0,24.0,,13.0,20.0,1.0,,,29.0,,,,28.0,67.0,,885.0,1102.0,20.0,50.0,116.0,12.0,152.0,275.0,
+Nicolas Höfler,SC Freiburg,Defensives Mittelfeld,18.0,,,,,,1719.0,4.0,30.0,,,,22.0,23.0,26.0,,10.0,19.0,,,,38.0,,,,23.0,45.0,,760.0,882.0,12.0,22.0,67.0,11.0,103.0,192.0,4.0
+Ondrej Petrák,1. FC Nürnberg,Defensives Mittelfeld,22.0,,,,,,1737.0,4.0,42.0,,,,27.0,15.0,29.0,,,,,,,20.0,,,,43.0,55.0,,607.0,711.0,14.0,27.0,49.0,6.0,103.0,169.0,
+Sven Bender,Bayer 04 Leverkusen,Innenverteidiger,27.0,,,,,,2123.0,4.0,51.0,,,,25.0,,21.0,,,,,,,95.0,,,,74.0,121.0,,1517.0,1671.0,15.0,25.0,53.0,,132.0,215.0,9.0
+Benjamin Pavard,VfB Stuttgart,Innenverteidiger,29.0,,,,,,2759.0,5.0,52.0,,,,20.0,10.0,19.0,,7.0,13.0,2.0,,,185.0,,,,80.0,138.0,,1275.0,1515.0,13.0,20.0,37.0,10.0,131.0,225.0,30.0
+Tim Leibold,1. FC Nürnberg,Linksverteidiger,32.0,,,,,,2934.0,5.0,41.0,,,,42.0,49.0,31.0,,24.0,55.0,,,,50.0,5.0,,,34.0,60.0,,1229.0,1588.0,28.0,42.0,97.0,37.0,161.0,303.0,
+Stefan Bell,1. FSV Mainz 05,Innenverteidiger,25.0,,,,,,2396.0,4.0,55.0,,,,20.0,14.0,41.0,,15.0,19.0,1.0,,,123.0,,,,94.0,133.0,,957.0,1209.0,18.0,20.0,48.0,21.0,152.0,264.0,
+Jérôme Boateng,FC Bayern München,Innenverteidiger,20.0,,,,,,1798.0,3.0,25.0,,,,15.0,,15.0,,,,,,,49.0,2.0,,,30.0,36.0,,1428.0,1609.0,14.0,15.0,32.0,11.0,61.0,91.0,20.0
+Aarón,1. FSV Mainz 05,Linksverteidiger,33.0,,,,,,3069.0,5.0,40.0,,,,31.0,39.0,29.0,,45.0,61.0,1.0,,,58.0,6.0,,,23.0,59.0,,1289.0,1732.0,18.0,31.0,73.0,62.0,151.0,272.0,
+Diego Demme,RB Leipzig,Defensives Mittelfeld,26.0,,,,,,2155.0,3.0,30.0,,,,49.0,26.0,37.0,,9.0,18.0,,,,16.0,3.0,,,26.0,50.0,,1215.0,1524.0,10.0,49.0,109.0,25.0,162.0,278.0,17.0
+Philipp Bargfrede,SV Werder Bremen,Defensives Mittelfeld,15.0,,,,,,1128.0,,35.0,,,,16.0,10.0,25.0,,,,1.0,,,43.0,,,,27.0,44.0,,454.0,556.0,,16.0,40.0,,70.0,137.0,
+Oliver Sorg,Hannover 96,Rechtsverteidiger,19.0,,,,,,1679.0,,45.0,,,,29.0,,11.0,,9.0,14.0,,,,43.0,,,,10.0,34.0,,618.0,835.0,,29.0,66.0,6.0,92.0,156.0,
+Jeffrey Gouweleeuw,FC Augsburg,Innenverteidiger,25.0,,,,,,2243.0,,60.0,,,,33.0,23.0,21.0,,10.0,22.0,1.0,,,65.0,2.0,,,44.0,82.0,,931.0,1213.0,,33.0,56.0,7.0,105.0,200.0,12.0
+Tony Jantschke,B. Mönchengladbach,Rechtsverteidiger,14.0,,,,,,993.0,,26.0,,,,9.0,,,,,,1.0,,,48.0,,,,29.0,51.0,,724.0,805.0,,9.0,16.0,,57.0,89.0,
+Marcel Sobottka,Fortuna Düsseldorf,Defensives Mittelfeld,14.0,,,,,,1004.0,,26.0,,,,19.0,10.0,26.0,,,,,,,14.0,,,,21.0,48.0,,268.0,337.0,,19.0,39.0,,64.0,136.0,
+D. Upamecano,RB Leipzig,Innenverteidiger,15.0,,,,,,1369.0,,35.0,,,,15.0,10.0,17.0,,8.0,9.0,,,,43.0,,,,45.0,67.0,,616.0,744.0,10.0,15.0,24.0,,78.0,130.0,
+Lukas Kübler,SC Freiburg,Rechtsverteidiger,16.0,,,,,,1264.0,,32.0,,,,22.0,,16.0,,6.0,10.0,1.0,,,43.0,3.0,,,22.0,45.0,,381.0,556.0,,22.0,43.0,7.0,83.0,139.0,
+Kevin Wimmer,Hannover 96,Innenverteidiger,22.0,,,,,,1820.0,,43.0,,,,17.0,,20.0,,,,,,,58.0,,,,28.0,51.0,,844.0,1046.0,,17.0,37.0,7.0,59.0,116.0,4.0
+Marc-Oliver Kempf,VfB Stuttgart,Innenverteidiger,23.0,,,,,,2148.0,,47.0,,,,18.0,,24.0,,,,1.0,,,131.0,,,,107.0,172.0,,835.0,1032.0,14.0,18.0,45.0,7.0,170.0,280.0,
+Omar Mascarell,FC Schalke 04,Defensives Mittelfeld,14.0,,,,,,1073.0,,23.0,,,,10.0,10.0,13.0,,,,,,,,,,,12.0,23.0,,397.0,473.0,,10.0,34.0,,41.0,88.0,8.0
+Julian Korb,Hannover 96,Rechtsverteidiger,12.0,,,,,,1070.0,,22.0,,,,18.0,12.0,15.0,,4.0,13.0,1.0,,,30.0,,,,7.0,19.0,,383.0,543.0,,18.0,44.0,10.0,40.0,97.0,
+Per Skjelbred,Hertha BSC,Defensives Mittelfeld,16.0,,,,,,1059.0,,20.0,,,,17.0,12.0,15.0,,8.0,9.0,,,,13.0,,,,12.0,23.0,,496.0,578.0,,17.0,43.0,8.0,56.0,110.0,
+Stefan Ilsanker,RB Leipzig,Defensives Mittelfeld,19.0,,,,,,1010.0,,19.0,,,,16.0,,20.0,,,,1.0,,,41.0,,,,34.0,54.0,,366.0,465.0,,16.0,34.0,,69.0,119.0,4.5
+Pirmin Schwegler,Hannover 96,Defensives Mittelfeld,27.0,,,,,,2182.0,,40.0,,,,37.0,23.0,45.0,,13.0,21.0,,,,54.0,,,,34.0,59.0,,924.0,1201.0,12.0,37.0,91.0,38.0,146.0,264.0,
+Andre Hoffmann,Fortuna Düsseldorf,Innenverteidiger,13.0,,,,,,1131.0,,20.0,,,,14.0,,15.0,,,,,,,42.0,,,,22.0,49.0,,431.0,493.0,,14.0,38.0,,47.0,109.0,
+Patrick Erras,1. FC Nürnberg,Defensives Mittelfeld,19.0,,,,,,1317.0,,23.0,,,,11.0,,9.0,,,,,,,44.0,,,,46.0,68.0,,373.0,467.0,8.0,11.0,27.0,8.0,65.0,108.0,
+Ewerton,1. FC Nürnberg,Innenverteidiger,18.0,,,,,,1449.0,,25.0,,,,20.0,,17.0,,10.0,11.0,1.0,,,106.0,,,,58.0,82.0,,508.0,604.0,9.0,20.0,30.0,,94.0,145.0,
+David Abraham,Eintracht Frankfurt,Innenverteidiger,17.0,,,,,,1510.0,,26.0,,,,14.0,,11.0,,,,,,,60.0,,,,40.0,61.0,,512.0,666.0,,14.0,35.0,,76.0,126.0,
+Benjamin Stambouli,FC Schalke 04,Innenverteidiger,21.0,,,,,,1902.0,,32.0,,,,31.0,11.0,23.0,,8.0,11.0,2.0,,,60.0,,,,18.0,39.0,,759.0,994.0,,31.0,72.0,9.0,91.0,168.0,10.0
+Marcin Kaminski,Fortuna Düsseldorf,Innenverteidiger,27.0,,,,,,2581.0,,42.0,,,,13.0,,7.0,,,,2.0,,,104.0,,,,48.0,88.0,,978.0,1166.0,8.0,13.0,22.0,7.0,75.0,125.0,
+Robert Bauer,1. FC Nürnberg,Rechtsverteidiger,22.0,,,,,,1816.0,,29.0,,,,31.0,,19.0,,,,,,,66.0,,,,14.0,40.0,,584.0,819.0,8.0,31.0,68.0,12.0,85.0,156.0,
+Karim Rekik,Hertha BSC,Innenverteidiger,24.0,,,,,,2198.0,,35.0,,,,22.0,,16.0,,,,,,,85.0,,,,50.0,90.0,,1032.0,1172.0,,22.0,40.0,,111.0,179.0,15.0
+Matthias Ostrzolek,Hannover 96,Linksverteidiger,18.0,,,,,,1581.0,,25.0,,,,18.0,11.0,13.0,,,,2.0,,,38.0,,,,10.0,27.0,,564.0,755.0,,18.0,45.0,8.0,71.0,124.0,
+Adam Bodzek,Fortuna Düsseldorf,Defensives Mittelfeld,21.0,,,,,,1678.0,,26.0,,,,31.0,,33.0,,,,,,,39.0,,,,33.0,54.0,,583.0,690.0,,31.0,69.0,8.0,120.0,206.0,
+Julian Baumgartlinger,Bayer 04 Leverkusen,Defensives Mittelfeld,21.0,,,,,,1667.0,,25.0,,,,30.0,24.0,19.0,,15.0,23.0,1.0,,,20.0,,,,26.0,50.0,,1233.0,1378.0,,30.0,77.0,9.0,112.0,202.0,
+Makoto Hasebe,Eintracht Frankfurt,Innenverteidiger,28.0,,,,,,2697.0,,39.0,,,,34.0,,17.0,,,,3.0,,,97.0,,,,32.0,71.0,,1242.0,1459.0,,34.0,69.0,7.0,119.0,197.0,
+Niklas Moisander,SV Werder Bremen,Innenverteidiger,30.0,,,,,,2835.0,,40.0,,,,23.0,13.0,34.0,,11.0,18.0,1.0,,,136.0,,,,47.0,86.0,,1672.0,1941.0,8.0,23.0,61.0,12.0,104.0,214.0,
+Kevin Vogt,TSG 1899 Hoffenheim,Innenverteidiger,28.0,,,,,,2540.0,,35.0,,,,16.0,,22.0,,,,2.0,,,99.0,,,,38.0,62.0,,1656.0,1855.0,,16.0,45.0,6.0,75.0,146.0,12.0
+Tobias Strobl,B. Mönchengladbach,Defensives Mittelfeld,29.0,,,,,,2431.0,,33.0,,,,17.0,11.0,26.0,,,,1.0,,,32.0,4.0,,,37.0,76.0,,1339.0,1488.0,8.0,17.0,49.0,15.0,96.0,188.0,7.0
+Sebastian Langkamp,SV Werder Bremen,Innenverteidiger,21.0,,,,,,1520.0,,20.0,,,,16.0,,11.0,,,,1.0,,,77.0,,,,41.0,73.0,,859.0,969.0,10.0,16.0,31.0,,81.0,132.0,
+Mijat Gacinovic,Eintracht Frankfurt,Offensives Mittelfeld,29.0,,,,,,1760.0,,23.0,,,,21.0,52.0,20.0,,28.0,60.0,,,,,3.0,,,11.0,40.0,,429.0,613.0,21.0,21.0,59.0,19.0,112.0,238.0,11.0
+Stefan Posch,TSG 1899 Hoffenheim,Innenverteidiger,17.0,,,,,,1499.0,,19.0,,,,30.0,,31.0,,,,,,,54.0,,,,40.0,69.0,,880.0,1001.0,,30.0,53.0,,95.0,171.0,5.5
+Andreas Beck,VfB Stuttgart,Rechtsverteidiger,24.0,,,,,,1872.0,,23.0,,,,20.0,13.0,24.0,,9.0,12.0,,,,48.0,3.0,,,25.0,50.0,,602.0,854.0,12.0,20.0,53.0,15.0,102.0,179.0,
+Sebastian Rudy,FC Schalke 04,Defensives Mittelfeld,21.0,,,,,,1455.0,,14.0,,,,27.0,18.0,28.0,,5.0,12.0,,,,13.0,2.0,,,,,,528.0,665.0,,27.0,76.0,13.0,75.0,159.0,9.0
+Enrico Valentini,1. FC Nürnberg,Rechtsverteidiger,15.0,,,,,,1373.0,,13.0,,,,26.0,20.0,11.0,,9.0,19.0,,,,49.0,,,,22.0,34.0,,499.0,770.0,8.0,26.0,62.0,24.0,87.0,148.0,
+Dennis Aogo,VfB Stuttgart,Linksverteidiger,15.0,,,,,,1069.0,,9.0,,,,9.0,,9.0,,,,,,,17.0,2.0,,,,,,473.0,575.0,10.0,9.0,23.0,15.0,37.0,66.0,
+Ramazan Özcan,Bayer 04 Leverkusen,Torhüter,2.0,,,,,,193.0,,,1.0,2.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+Fabian Bredlow,1. FC Nürnberg,Torhüter,13.0,,,,,,1194.0,63.0,,1.0,2.0,34.0,,,,2.0,,,,6.0,6.0,,,2.0,14.0,,,32.0,,,,,,,,,
+Gregor Kobel,FC Augsburg,Torhüter,17.0,,,,,,1565.0,101.0,,1.0,3.0,58.0,,,,3.0,,,,5.0,5.0,,,17.0,42.0,,,46.0,,,,,,,,,6.0
+Alexander Nübel,FC Schalke 04,Torhüter,18.0,,,,,,1696.0,87.0,,1.0,4.0,58.0,,,,4.0,,,,8.0,8.0,,,7.0,28.0,,,45.0,,,,,,,,,12.0
+Rune Jarstein,Hertha BSC,Torhüter,31.0,,,,,,2924.0,148.0,,1.0,4.0,102.0,,,,8.0,,,,28.0,29.0,,,20.0,47.0,,,74.0,,,,,,,,,
+Lukás Hrádecky,Bayer 04 Leverkusen,Torhüter,32.0,,,,,,3076.0,130.0,,1.0,4.0,84.0,,,,9.0,,,,17.0,17.0,,,10.0,34.0,,,66.0,,,,,,,,,
+Koen Casteels,VfL Wolfsburg,Torhüter,26.0,,,,,,2462.0,120.0,,1.0,5.0,80.0,,,,8.0,,,,24.0,24.0,,,13.0,37.0,,,60.0,,,,,,,,,13.0
+Michael Esser,Hannover 96,Torhüter,32.0,,,,,,3084.0,219.0,,1.0,6.0,153.0,,,,5.0,,,,25.0,25.0,,,25.0,62.0,,,118.0,,,,,,,,,
+Luca Plogmann,SV Werder Bremen,Torhüter,1.0,,,,,,47.0,,,0.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+Yvon Mvogo,RB Leipzig,Torhüter,2.0,,,,,,148.0,,,0.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+Marwin Hitz,Borussia Dortmund,Torhüter,2.0,,,,,,200.0,,,0.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pavao Pervan,VfL Wolfsburg,Torhüter,9.0,,,,,,811.0,,,0.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+Kevin Trapp,Eintracht Frankfurt,Torhüter,33.0,,,,,,3149.0,166.0,,0.0,1.0,119.0,,,,8.0,,,,26.0,26.0,,,21.0,48.0,,,93.0,,,,,,,,,10.0
+Thomas Kraft,Hertha BSC,Torhüter,4.0,,,,,,339.0,,,0.0,2.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ralf Fährmann,FC Schalke 04,Torhüter,17.0,,,,,,1596.0,83.0,,0.0,2.0,58.0,,,,3.0,,,,19.0,19.0,,,16.0,34.0,,,46.0,,,,,,,,,5.0
+Christian Mathenia,1. FC Nürnberg,Torhüter,22.0,,,,,,2067.0,121.0,,0.0,2.0,83.0,,,,2.0,,,,18.0,18.0,,,12.0,33.0,,,69.0,,,,,,,,,
+Sven Ulreich,FC Bayern München,Torhüter,9.0,,,,,,809.0,,,0.0,3.0,,,,,,,,,,,,,,,,,,,,,,,,,,4.5
+Manuel Neuer,FC Bayern München,Torhüter,26.0,,,,,,2438.0,57.0,,0.0,3.0,34.0,,,,10.0,,,,10.0,10.0,,,4.0,17.0,,,21.0,,,,,,,,,18.0
+Ron-Robert Zieler,VfB Stuttgart,Torhüter,34.0,,,,,,3240.0,182.0,,0.0,3.0,116.0,,,,6.0,,,,34.0,35.0,,,20.0,60.0,,,98.0,,,,,,,,,4.5
+Yann Sommer,B. Mönchengladbach,Torhüter,34.0,,,,,,3252.0,162.0,,0.0,3.0,118.0,,,,13.0,,,,24.0,24.0,,,18.0,45.0,,,86.0,,,,,,,,,12.0
+Florian Müller,1. FSV Mainz 05,Torhüter,24.0,,,,,,2300.0,128.0,,0.0,4.0,83.0,,,,5.0,,,,8.0,8.0,,,14.0,44.0,,,73.0,,,,,,,,,10.0
+Roman Bürki,Borussia Dortmund,Torhüter,32.0,,,,,,3090.0,129.0,,0.0,4.0,88.0,,,,10.0,,,,18.0,18.0,,,16.0,41.0,,,69.0,,,,,,,,,14.0
+Jirí Pavlenka,SV Werder Bremen,Torhüter,34.0,,,,,,3188.0,155.0,,0.0,4.0,107.0,,,,5.0,,,,19.0,19.0,,,28.0,59.0,,,84.0,,,,,,,,,
+Péter Gulácsi,RB Leipzig,Torhüter,33.0,,,,,,3097.0,119.0,,0.0,5.0,93.0,,,,15.0,,,,18.0,18.0,,,23.0,39.0,,,69.0,,,,,,,,,12.0
+Oliver Baumann,TSG 1899 Hoffenheim,Torhüter,33.0,,,,,,3186.0,170.0,,0.0,6.0,119.0,,,,5.0,,,,11.0,14.0,,,16.0,48.0,,,94.0,,,,,,,,,8.0
+Michael Rensing,Fortuna Düsseldorf,Torhüter,32.0,,,,,,3068.0,173.0,,0.0,7.0,111.0,,,,5.0,,,,41.0,42.0,,,20.0,57.0,,,89.0,,,,,,,,,
+Alexander Schwolow,SC Freiburg,Torhüter,33.0,,,,,,3188.0,176.0,,0.0,7.0,114.0,,,,5.0,,,,20.0,20.0,,,21.0,61.0,,,92.0,,,,,,,,,9.0
+Andreas Luthe,FC Augsburg,Torhüter,15.0,,,,,,1408.0,78.0,,,,57.0,,,,2.0,,,,3.0,3.0,,,9.0,22.0,,,48.0,,,,,,,,,
+Dayot Upamecano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30.0
+Aarón Martín,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,20.0
+Paulinho,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15.0
+Leonardo Balerdi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.0
+Tyler Adams,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13.0
+Ignacio Camacho,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13.0
+Panagiotis Retsos,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13.0
+Santiago Ascacíbar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12.0
+Jiri Pavlenka,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12.0
+Marcelo Saracchi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10.0
+Pierre Kunde Malong,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10.0
+Rabbi Matondo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9.0
+Dennis Geiger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8.5
+Lukas Hradecky,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8.0
+Benjamin Hübner,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.0
+Kasim Adams,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.0
+Almamy Touré,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.5
+Kevin Akpoguma,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.5
+Lucas Torró,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.0
+Jetro Willems,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0
+Ömer Toprak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0
+Michaël Cuisance,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0
+Pablo Maffeo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5
+Timothy Chandler,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0
+Hamza Mendyl,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0
+Simon Falette,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0
+Philipp Lienhart,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0
+Emile Smith Rowe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0
+Borna Sosa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0
+Reece Oxford,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0
+Vladimir Darida,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0

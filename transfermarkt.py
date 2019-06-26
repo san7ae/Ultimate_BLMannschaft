@@ -10,7 +10,7 @@ pageSoup = bs4.BeautifulSoup(pageTree.content, 'html.parser')
 # Write to CSV data
 outfile = open('transfermarkt.csv','w', encoding="utf-8", newline='')
 writer = csv.writer(outfile, delimiter=",")
-writer.writerow(["Name", "Verein", "Position", "Einsatz", "Alter", "Vorlagen", "Elfmetertor", "Tore"])
+writer.writerow(["Name", "Verein", "Position", "Einsatz", "Alter", "Vorlagen", "Elfmetertor", "Tore", "Nationalitaet"])
 
 
 # Define Pagination
@@ -63,12 +63,21 @@ for page in pages:
 
             #value = element.find("td", {"class": "rechts hauptlink"}).text.replace(u"\u00a3", "").replace("m","").replace(".",",")
 
-            #nationality = []
-            #nationality1 = element.select("td[class*='zentriert'] img[class*='flaggenrahmen']")[0].attrs["title"]
-            #nationality.append(nationality1)
+            nationalityList = []
+            nationality1 = element.select("td[class*='zentriert'] img[class*='flaggenrahmen']")[0].attrs["title"]
+            nationalityList.append(nationality1)
+
+            try:
+                nationality2 = element.select("td[class*='zentriert'] img[class*='flaggenrahmen']")[1].attrs["title"]
+                nationalityList.append(nationality2)
+            except:
+                print("Just one nationality exists!")
+
+            nationality = ' & '.join(nationalityList)
+
 
             print(name)
-            writer.writerow([name, verein, position, einsatz, alter, vorlage, elfmeter, tore])
+            writer.writerow([name, verein, position, einsatz, alter, vorlage, elfmeter, tore, nationality])
             totalPlayer+=1
 
         except:
